@@ -1,0 +1,1512 @@
+Updated: 8:49 PM 11/12/2012
+#########################
+[ReadyNAS 1100]
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Black WD2002FAEX	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda XT ST32000641AS	2 TB	6Gb/s	64 MB	No	5	
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.12 ST31000524AS	1 TB	6Gb/s	32 MB	No	3	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda ES ST3750640NS	750 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3750840NS	750 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda 7200.11 ST3750330AS	750 GB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Hitachi	7K500 HDS725050KLA360	500 GB	3Gb/s	16 MB	No	5	
+Western Digital	RE2 WD4000YR	400 GB	3Gb/s	16 MB	Yes	5	
+Seagate	Barracuda ES ST3400620NS	400 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda ES ST3320620NS	320 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES.2 ST3250310NS	250 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda ES ST3250820NS	250 GB	3Gb/s	8 MB	No	5	
+Western Digital	Caviar RE WD2500SD	250 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda ES ST3250620NS	80 GB	3Gb/s	16 MB	No	5	
+#########################
+[ReadyNAS 1500]
+Hitachi	Deskstar 7K3000 HDS723030ALA640	3 TB	6Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST33000650NS	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware.
+Seagate	Barracuda 7200.14 ST3000DM001	3 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda XT ST33000651AS	3 TB	6Gb/s	64 MB	No	5	
+Hitachi	Deskstar 5K3000 HDS5C3030ALA630	3 TB	6Gb/s	32 MB	No	3	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST32000644NS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD2003FYYS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	Caviar Green WD20EADS	2 TB	3Gb/s	32 MB	Yes	3	Drive Firmware 01.00A01 , Model # WD20EADS-00R6B0, See Tech Bulletin http://www.readynas.com/?p=3690
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda LP ST2000DL003	2 TB	6Gb/s	64 MB	No	3	
+Western Digital	Caviar Black WD2002FAEX	2 TB	6Gb/s	64 MB	No	5	
+Hitachi	7K2000 HDS722020ALA330	2 TB	3Gb/s	32 MB	No	3	
+Samsung	EcoGreen F3 HD203WI	2 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F4 HD204UI	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda XT ST32000641AS	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda 7200.11 ST31500341AS	1.5 TB	3Gb/s	32 MB	No	5	Use Seagate firmware SD1A or later to prevent frame drops while streaming video.
+Seagate	Constellation ST1000NM0011	1 TB	6Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Deskstar E7K1000 HDE721010SLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda 7200.12 ST31000524AS	1 TB	6Gb/s	32 MB	No	3	
+Seagate	Pipeline HD ST31000533CS	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Pipeline HD .2 ST31000322CS	1 TB	3Gb/s	8 MB	No	3	
+Hitachi	Deskstar 7K1000 HDS721010KLA330	1 TB	3Gb/s	32 MB	No	3	
+Hitachi	Deskstar 7K1000.C HDS721010CLA332	1 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F1 HD103UJ	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda 7200.11 ST31000340AS	1 TB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST31000528AS	1 TB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD10EACS	1 TB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE4 WD5003ABYX	500 GB	3Gb/s	64 MB	Yes	5	
+#########################
+[ReadyNAS 2100]
+Hitachi	Deskstar 7K3000 HDS723030ALA640	3 TB	6Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware
+Hitachi	Ultrastar 7K3000 HUA723030ALA640	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST33000650NS	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware.
+Western Digital	WD RED WD30EFRX	3 TB	6Gb/s	64 MB	Yes	3	
+Seagate	Barracuda 7200.14 ST3000DM001	3 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda XT ST33000651AS	3 TB	6Gb/s	64 MB	No	5	
+Hitachi	Deskstar 5K3000 HDS5C3030ALA630	3 TB	6Gb/s	32 MB	No	3	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST2000NM0011	2 TB	6Gb/s	64 MB	Yes	5	
+Seagate	Constellation ST32000644NS	2 TB	3Gb/s	64 MB	Yes	5	
+Toshiba	MKx002TSKB MK2002TSKB	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD2003FYYS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Black WD2002FAEX	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda XT ST32000641AS	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda 7200.11 ST31500341AS	1.5 TB	3Gb/s	32 MB	No	5	Use Seagate firmware SD1A or later to prevent frame drops while streaming video.
+Seagate	Constellation ST1000NM0011	1 TB	6Gb/s	64 MB	Yes	5	
+Toshiba	MKx001TRKB MK1002TSKB	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST31000524NS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda 7200.12 ST31000524AS	1 TB	6Gb/s	32 MB	No	3	
+Seagate	Pipeline HD ST31000533CS	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Pipeline HD .2 ST31000322CS	1 TB	3Gb/s	8 MB	No	3	
+Hitachi	Deskstar 7K1000 HDS721010KLA330	1 TB	3Gb/s	32 MB	No	3	
+Hitachi	Deskstar 7K1000.C HDS721010CLA332	1 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F1 HD103UJ	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda 7200.11 ST31000340AS	1 TB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST31000528AS	1 TB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD10EACS	1 TB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE4 WD5003ABYX	500 GB	3Gb/s	64 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST3500514NS	500 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3250310NS	250 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+#########################
+[ReadyNAS 2100-D]
+Hitachi	Deskstar 7K3000 HDS723030ALA640	3 TB	6Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware
+Hitachi	Ultrastar 7K3000 HUA723030ALA640	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST33000650NS	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware.
+Western Digital	WD RED WD30EFRX	3 TB	6Gb/s	64 MB	Yes	3	
+Seagate	Barracuda 7200.14 ST3000DM001	3 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda XT ST33000651AS	3 TB	6Gb/s	64 MB	No	5	
+Hitachi	Deskstar 5K3000 HDS5C3030ALA630	3 TB	6Gb/s	32 MB	No	3	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST2000NM0011	2 TB	6Gb/s	64 MB	Yes	5	
+Seagate	Constellation ST32000644NS	2 TB	3Gb/s	64 MB	Yes	5	
+Toshiba	MKx002TSKB MK2002TSKB	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD2003FYYS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Black WD2002FAEX	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda XT ST32000641AS	2 TB	6Gb/s	64 MB	No	5	
+Toshiba	MKx001TRKB MK1002TSKB	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Constellation ST31000524NS	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda 7200.12 ST31000524AS	1 TB	6Gb/s	32 MB	No	3	
+Hitachi	Deskstar 7K1000 HDS721010KLA330	1 TB	3Gb/s	32 MB	No	3	
+Hitachi	Deskstar 7K1000.C HDS721010CLA332	1 TB	3Gb/s	32 MB	No	3	
+Western Digital	Caviar Green WD10EACS	1 TB	3Gb/s	16 MB	No	3	
+#########################
+[ReadyNAS 3100]
+Hitachi	Ultrastar 7K3000 HUA723030ALA640	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST33000650NS	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware.
+Seagate	Barracuda XT ST33000651AS	3 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda ES.2 ST32000645NS	2 TB	3Gb/s	64 MB	Yes	3	
+Seagate	Constellation ST32000644NS	2 TB	3Gb/s	64 MB	Yes	5	
+Toshiba	MKx002TSKB MK2002TSKB	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD2003FYYS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Seagate	Constellation ST1000NM0011	1 TB	6Gb/s	64 MB	Yes	5	
+Toshiba	MKx001TRKB MK1002TSKB	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST31000524NS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE4 WD5003ABYX	500 GB	3Gb/s	64 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST3500514NS	500 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3250310NS	250 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+#########################
+[ReadyNAS 3200]
+Seagate	Barracuda ES.2 ST32000645NS	2 TB	3Gb/s	64 MB	Yes	3	
+Seagate	Constellation ST2000NM0011	2 TB	6Gb/s	64 MB	Yes	5	
+Seagate	Constellation ST32000644NS	2 TB	3Gb/s	64 MB	Yes	5	
+Toshiba	MKx002TSKB MK2002TSKB	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD2003FYYS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Seagate	Constellation ST1000NM0011	1 TB	6Gb/s	64 MB	Yes	5	
+Toshiba	MKx001TRKB MK1002TSKB	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST31000524NS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE4 WD5003ABYX	500 GB	3Gb/s	64 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST3500514NS	500 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3250310NS	250 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+#########################
+[ReadyNAS 4200]
+Seagate	Barracuda ES.2 ST32000645NS	2 TB	3Gb/s	64 MB	Yes	3	
+Seagate	Constellation ST2000NM0011	2 TB	6Gb/s	64 MB	Yes	5	
+Seagate	Constellation ST32000644NS	2 TB	3Gb/s	64 MB	Yes	5	
+Toshiba	MKx002TSKB MK2002TSKB	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD2003FYYS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Seagate	Constellation ST1000NM0011	1 TB	6Gb/s	64 MB	Yes	5	
+Toshiba	MKx001TRKB MK1002TSKB	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST31000524NS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE4 WD5003ABYX	500 GB	3Gb/s	64 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST3500514NS	500 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3250310NS	250 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+#########################
+[ReadyNAS 4200 V2]
+Hitachi	Ultrastar 7K3000 HUA723030ALA640	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST33000650NS	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware.
+Seagate	Barracuda 7200.14 ST3000DM001	3 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda ES.2 ST32000645NS	2 TB	3Gb/s	64 MB	Yes	3	
+Seagate	Constellation ST2000NM0011	2 TB	6Gb/s	64 MB	Yes	5	
+Seagate	Constellation ST32000644NS	2 TB	3Gb/s	64 MB	Yes	5	
+Toshiba	MKx002TSKB MK2002TSKB	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD2003FYYS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Seagate	Constellation ST1000NM0011	1 TB	6Gb/s	64 MB	Yes	5	
+Toshiba	MKx001TRKB MK1002TSKB	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST31000524NS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+#########################
+[ReadyNAS Duo]
+Western Digital	Caviar Green WD20EARS	2 TB	3Gb/s	64 MB	Yes	3	Firmware 80.00A80, Model # WD20EARS-00S8B1, See Tech Bulletin http://www.readynas.com/?p=3690
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda LP ST2000DL003	2 TB	6Gb/s	64 MB	No	3	
+Western Digital	Caviar Black WD2002FAEX	2 TB	6Gb/s	64 MB	No	5	
+Western Digital	Caviar Green WD20EARX	2 TB	6Gb/s	64 MB	No	3	
+Hitachi	7K2000 HDS722020ALA330	2 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F4 HD204UI	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda XT ST32000641AS	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda 7200.11 ST31500341AS	1.5 TB	3Gb/s	32 MB	No	5	Use Seagate firmware SD1A or later to prevent frame drops while streaming video.
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Deskstar E7K1000 HDE721010SLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda LP ST31000520AS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Green WD10EARX	1 TB	6Gb/s	64 MB	No	3	
+Seagate	Barracuda 7200.12 ST31000524AS	1 TB	6Gb/s	32 MB	No	3	
+Seagate	Pipeline HD ST31000533CS	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Pipeline HD .2 ST31000322CS	1 TB	3Gb/s	8 MB	No	3	
+Western Digital	Caviar Green WD10EARS	1 TB	3Gb/s	64 MB	No	3	
+Hitachi	Deskstar 7K1000 HDS721010KLA330	1 TB	3Gb/s	32 MB	No	3	
+Hitachi	Deskstar 7K1000.C HDS721010CLA332	1 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F1 HD103UJ	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda 7200.11 ST31000340AS	1 TB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST31000528AS	1 TB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD10EACS	1 TB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.10 ST3750640AS	750 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3750640NS	750 GB	3Gb/s	16 MB	No	5	
+Seagate	DB35 ST3750640SCE	750 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES ST3750840NS	750 GB	3Gb/s	8 MB	No	5	
+Seagate	DB35 ST3750840SCE	750 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.11 ST3750330AS	750 GB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST3750528AS	750 GB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD7500AACS	750 GB	3Gb/s	16 MB	No	3	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE2 WD5001ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Hitachi	7K500 HDS725050KLA360	500 GB	3Gb/s	16 MB	No	5	
+Samsung	Spinpoint T166 HD501LJ	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.10 ST3500630AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.9 ST3500641AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3500630NS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	NL35.2 ST3500641NS	500 GB	3Gb/s	16 MB	No	5	
+Hitachi	CinemaStar 5K1000 HCS5C1050CLA382	500 GB	3Gb/s	8 MB	No	3	
+Seagate	DB35.3 ST3500830SCE	500 GB	3Gb/s	8 MB	No	5	
+Seagate	Pipeline HD ST3500321CS	500 GB	3Gb/s	8 MB	No	3	
+Seagate	Pipeline HD .2 ST3500312CS	500 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.11 ST3500320AS	500 GB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD5000AACS	500 GB	3Gb/s	16 MB	No	3	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE2 WD4000YR	400 GB	3Gb/s	16 MB	Yes	5	
+Seagate	Barracuda 7200.10 ST3400620AS	400 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.9 ST3400633AS	400 GB	3Gb/s	16 MB	No	5	
+Seagate	NL35.2 ST3400633NS	400 GB	3Gb/s	16 MB	No	5	
+Western Digital	Caviar SE16 WD4000KD	400 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.8 ST3400832AS	400 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda ES ST3400620NS	400 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda 7200.10 ST3320620AS	320 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3320620NS	320 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.9 ST3300822AS	300 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.8 ST3300831AS	300 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda ES.2 ST3250310NS	250 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda 7200.10 ST3250410AS	250 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.9 ST3250824AS	250 GB	3Gb/s	16 MB	No	5	
+Hitachi	Deskstar T7K250 HDT722525DLA380	250 GB	3Gb/s	8 MB	No	1	
+Hitachi	Deskstar T7K250 HDT725025VLA380	250 GB	3Gb/s	8 MB	No	3	
+IOSafe - Seagate	Momentus 5400.4 ST9250827AS	250 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.10 ST3250820AS	250 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda 7200.8 ST3250823AS	250 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda ES ST3250820NS	250 GB	3Gb/s	8 MB	No	5	
+Seagate	NL35.1 ST3250823NS	250 GB	3Gb/s	8 MB	No	5	
+Western Digital	Caviar RE WD2500SD	250 GB	3Gb/s	8 MB	No	3	
+Western Digital	Caviar SE WD2500JD	250 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.11 ST3160813AS	160 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda 7200.7 ST3160023AS	160 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	80 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES ST3250620NS	80 GB	3Gb/s	16 MB	No	5	
+Western Digital	Caviar SE WD1200JD	80 GB	3Gb/s	8 MB	No	3	
+#########################
+[ReadyNAS Duo v2]
+Hitachi	Deskstar 7K3000 HDS723030ALA640	3 TB	6Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware
+Western Digital	Caviar Green WD30EZRS	3 TB	3Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware.
+Western Digital	WD RED WD30EFRX	3 TB	6Gb/s	64 MB	Yes	3	
+Seagate	Barracuda 7200.14 ST3000DM001	3 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda XT ST33000651AS	3 TB	6Gb/s	64 MB	No	5	
+Western Digital	Caviar Green WD30EZRX	3 TB	6Gb/s	64 MB	No	3	
+Western Digital	Caviar Green WD20EARS	2 TB	3Gb/s	64 MB	Yes	3	Firmware 80.00A80, Model # WD20EARS-00S8B1, See Tech Bulletin http://www.readynas.com/?p=3690
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Green WD20EARX	2 TB	6Gb/s	64 MB	No	3	
+Western Digital	WD AV-GP WD20EURS	2 TB	3Gb/s	64 MB	No	3	
+Samsung	Spinpoint F4 HD204UI	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST1500DL003	1.5 TB	6Gb/s	64 MB	No	3	
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Green WD10EARX	1 TB	6Gb/s	64 MB	No	3	
+Western Digital	WD AV-GP WD10EURS	1 TB	3Gb/s	64 MB	No	3	
+Seagate	Pipeline HD ST31000533CS	1 TB	3Gb/s	32 MB	No	3	
+Toshiba	DT01ACA DT01ACA100	1 TB	6Gb/s	32 MB	No	2	
+Western Digital	Caviar Green WD10EARS	1 TB	3Gb/s	64 MB	No	3	
+Seagate	Barracuda 7200.11 ST31000340AS	1 TB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Seagate	Barracuda 7200.10 ST3500630AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	500 GB	3Gb/s	16 MB	No	3	
+#########################
+[ReadyNAS NV]
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Black WD2002FAEX	2 TB	6Gb/s	64 MB	No	5	
+Western Digital	Caviar Green WD20EARX	2 TB	6Gb/s	64 MB	No	3	
+Hitachi	7K2000 HDS722020ALA330	2 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F4 HD204UI	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda XT ST32000641AS	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda 7200.11 ST31500341AS	1.5 TB	3Gb/s	32 MB	No	5	Use Seagate firmware SD1A or later to prevent frame drops while streaming video.
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Deskstar E7K1000 HDE721010SLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda LP ST31000520AS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Green WD10EARX	1 TB	6Gb/s	64 MB	No	3	
+Seagate	Barracuda 7200.12 ST31000524AS	1 TB	6Gb/s	32 MB	No	3	
+Seagate	Pipeline HD ST31000533CS	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Pipeline HD .2 ST31000322CS	1 TB	3Gb/s	8 MB	No	3	
+Hitachi	Deskstar 7K1000 HDS721010KLA330	1 TB	3Gb/s	32 MB	No	3	
+Hitachi	Deskstar 7K1000.C HDS721010CLA332	1 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F1 HD103UJ	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda 7200.11 ST31000340AS	1 TB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST31000528AS	1 TB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD10EACS	1 TB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.10 ST3750640AS	750 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3750640NS	750 GB	3Gb/s	16 MB	No	5	
+Seagate	DB35 ST3750640SCE	750 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES ST3750840NS	750 GB	3Gb/s	8 MB	No	5	
+Seagate	DB35 ST3750840SCE	750 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.11 ST3750330AS	750 GB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST3750528AS	750 GB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD7500AACS	750 GB	3Gb/s	16 MB	No	3	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE2 WD5001ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Hitachi	7K500 HDS725050KLA360	500 GB	3Gb/s	16 MB	No	5	
+Samsung	Spinpoint T166 HD501LJ	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.10 ST3500630AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.9 ST3500641AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3500630NS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	NL35.2 ST3500641NS	500 GB	3Gb/s	16 MB	No	5	
+Hitachi	CinemaStar 5K1000 HCS5C1050CLA382	500 GB	3Gb/s	8 MB	No	3	
+Seagate	DB35.3 ST3500830SCE	500 GB	3Gb/s	8 MB	No	5	
+Seagate	Pipeline HD ST3500321CS	500 GB	3Gb/s	8 MB	No	3	
+Seagate	Pipeline HD .2 ST3500312CS	500 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.11 ST3500320AS	500 GB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD5000AACS	500 GB	3Gb/s	16 MB	No	3	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE2 WD4000YR	400 GB	3Gb/s	16 MB	Yes	5	
+Seagate	Barracuda 7200.10 ST3400620AS	400 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.9 ST3400633AS	400 GB	3Gb/s	16 MB	No	5	
+Seagate	NL35.2 ST3400633NS	400 GB	3Gb/s	16 MB	No	5	
+Western Digital	Caviar SE16 WD4000KD	400 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.8 ST3400832AS	400 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda ES ST3400620NS	400 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda 7200.10 ST3320620AS	320 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3320620NS	320 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.9 ST3300822AS	300 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.8 ST3300831AS	300 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda ES.2 ST3250310NS	250 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda 7200.10 ST3250410AS	250 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.9 ST3250824AS	250 GB	3Gb/s	16 MB	No	5	
+Hitachi	Deskstar T7K250 HDT722525DLA380	250 GB	3Gb/s	8 MB	No	1	
+Hitachi	Deskstar T7K250 HDT725025VLA380	250 GB	3Gb/s	8 MB	No	3	
+IOSafe - Seagate	Momentus 5400.4 ST9250827AS	250 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.10 ST3250820AS	250 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda 7200.8 ST3250823AS	250 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda ES ST3250820NS	250 GB	3Gb/s	8 MB	No	5	
+Seagate	NL35.1 ST3250823NS	250 GB	3Gb/s	8 MB	No	5	
+Western Digital	Caviar RE WD2500SD	250 GB	3Gb/s	8 MB	No	3	
+Western Digital	Caviar SE WD2500JD	250 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.11 ST3160813AS	160 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda 7200.7 ST3160023AS	160 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	80 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES ST3250620NS	80 GB	3Gb/s	16 MB	No	5	
+Western Digital	Caviar SE WD1200JD	80 GB	3Gb/s	8 MB	No	3	
+#########################
+[ ReadyNAS NV+ v2]
+Hitachi	Deskstar 7K3000 HDS723030ALA640	3 TB	6Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware
+Western Digital	WD RED WD30EFRX	3 TB	6Gb/s	64 MB	Yes	3	
+Seagate	Barracuda 7200.14 ST3000DM001	3 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda XT ST33000651AS	3 TB	6Gb/s	64 MB	No	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Green WD20EARX	2 TB	6Gb/s	64 MB	No	3	
+Western Digital	WD AV-GP WD20EURS	2 TB	3Gb/s	64 MB	No	3	
+Samsung	Spinpoint F4 HD204UI	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST1500DL003	1.5 TB	6Gb/s	64 MB	No	3	
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Western Digital	WD AV-GP WD10EURS	1 TB	3Gb/s	64 MB	No	3	
+Seagate	Pipeline HD ST31000533CS	1 TB	3Gb/s	32 MB	No	3	
+Toshiba	DT01ACA DT01ACA100	1 TB	6Gb/s	32 MB	No	2	
+Seagate	Barracuda 7200.11 ST31000340AS	1 TB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Seagate	Barracuda 7200.10 ST3500630AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	500 GB	3Gb/s	16 MB	No	3	
+#########################
+[ReadyNAS NV+]
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda LP ST2000DL003	2 TB	6Gb/s	64 MB	No	3	
+Western Digital	Caviar Black WD2002FAEX	2 TB	6Gb/s	64 MB	No	5	
+Western Digital	Caviar Green WD20EARX	2 TB	6Gb/s	64 MB	No	3	
+Hitachi	7K2000 HDS722020ALA330	2 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F4 HD204UI	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda XT ST32000641AS	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda 7200.11 ST31500341AS	1.5 TB	3Gb/s	32 MB	No	5	Use Seagate firmware SD1A or later to prevent frame drops while streaming video.
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Deskstar E7K1000 HDE721010SLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda LP ST31000520AS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Green WD10EARX	1 TB	6Gb/s	64 MB	No	3	
+Seagate	Barracuda 7200.12 ST31000524AS	1 TB	6Gb/s	32 MB	No	3	
+Seagate	Pipeline HD ST31000533CS	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Pipeline HD .2 ST31000322CS	1 TB	3Gb/s	8 MB	No	3	
+Hitachi	Deskstar 7K1000 HDS721010KLA330	1 TB	3Gb/s	32 MB	No	3	
+Hitachi	Deskstar 7K1000.C HDS721010CLA332	1 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F1 HD103UJ	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda 7200.11 ST31000340AS	1 TB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST31000528AS	1 TB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD10EACS	1 TB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.10 ST3750640AS	750 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3750640NS	750 GB	3Gb/s	16 MB	No	5	
+Seagate	DB35 ST3750640SCE	750 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES ST3750840NS	750 GB	3Gb/s	8 MB	No	5	
+Seagate	DB35 ST3750840SCE	750 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.11 ST3750330AS	750 GB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST3750528AS	750 GB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD7500AACS	750 GB	3Gb/s	16 MB	No	3	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE2 WD5001ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Hitachi	7K500 HDS725050KLA360	500 GB	3Gb/s	16 MB	No	5	
+Samsung	Spinpoint T166 HD501LJ	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.10 ST3500630AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.9 ST3500641AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3500630NS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	NL35.2 ST3500641NS	500 GB	3Gb/s	16 MB	No	5	
+Hitachi	CinemaStar 5K1000 HCS5C1050CLA382	500 GB	3Gb/s	8 MB	No	3	
+Seagate	DB35.3 ST3500830SCE	500 GB	3Gb/s	8 MB	No	5	
+Seagate	Pipeline HD ST3500321CS	500 GB	3Gb/s	8 MB	No	3	
+Seagate	Pipeline HD .2 ST3500312CS	500 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.11 ST3500320AS	500 GB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD5000AACS	500 GB	3Gb/s	16 MB	No	3	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE2 WD4000YR	400 GB	3Gb/s	16 MB	Yes	5	
+Seagate	Barracuda 7200.10 ST3400620AS	400 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.9 ST3400633AS	400 GB	3Gb/s	16 MB	No	5	
+Seagate	NL35.2 ST3400633NS	400 GB	3Gb/s	16 MB	No	5	
+Western Digital	Caviar SE16 WD4000KD	400 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.8 ST3400832AS	400 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda ES ST3400620NS	400 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda 7200.10 ST3320620AS	320 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3320620NS	320 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.9 ST3300822AS	300 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.8 ST3300831AS	300 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda ES.2 ST3250310NS	250 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda 7200.10 ST3250410AS	250 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.9 ST3250824AS	250 GB	3Gb/s	16 MB	No	5	
+Hitachi	Deskstar T7K250 HDT722525DLA380	250 GB	3Gb/s	8 MB	No	1	
+Hitachi	Deskstar T7K250 HDT725025VLA380	250 GB	3Gb/s	8 MB	No	3	
+IOSafe - Seagate	Momentus 5400.4 ST9250827AS	250 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.10 ST3250820AS	250 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda 7200.8 ST3250823AS	250 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda ES ST3250820NS	250 GB	3Gb/s	8 MB	No	5	
+Seagate	NL35.1 ST3250823NS	250 GB	3Gb/s	8 MB	No	5	
+Western Digital	Caviar RE WD2500SD	250 GB	3Gb/s	8 MB	No	3	
+Western Digital	Caviar SE WD2500JD	250 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.11 ST3160813AS	160 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda 7200.7 ST3160023AS	160 GB	3Gb/s	8 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	80 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES ST3250620NS	80 GB	3Gb/s	16 MB	No	5	
+Western Digital	Caviar SE WD1200JD	80 GB	3Gb/s	8 MB	No	3	
+#########################
+[ReadyNAS NVX]
+Hitachi	Deskstar 7K3000 HDS723030ALA640	3 TB	6Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware
+Hitachi	Ultrastar 7K3000 HUA723030ALA640	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST33000650NS	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware.
+Western Digital	WD RED WD30EFRX	3 TB	6Gb/s	64 MB	Yes	3	
+Seagate	Barracuda 7200.14 ST3000DM001	3 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda XT ST33000651AS	3 TB	6Gb/s	64 MB	No	5	
+Hitachi	Deskstar 5K3000 HDS5C3030ALA630	3 TB	6Gb/s	32 MB	No	3	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST2000NM0011	2 TB	6Gb/s	64 MB	Yes	5	
+Seagate	Constellation ST32000644NS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD2003FYYS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda LP ST2000DL003	2 TB	6Gb/s	64 MB	No	3	
+Western Digital	Caviar Black WD2002FAEX	2 TB	6Gb/s	64 MB	No	5	
+Hitachi	7K2000 HDS722020ALA330	2 TB	3Gb/s	32 MB	No	3	
+Samsung	EcoGreen F3 HD203WI	2 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F4 HD204UI	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda XT ST32000641AS	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda 7200.11 ST31500341AS	1.5 TB	3Gb/s	32 MB	No	5	Use Seagate firmware SD1A or later to prevent frame drops while streaming video.
+Seagate	Barracuda LP ST31500541AS	1.5 TB	3Gb/s	32 MB	No	5	
+Seagate	Constellation ST1000NM0011	1 TB	6Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Deskstar E7K1000 HDE721010SLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda LP ST31000520AS	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Constellation ST31000524NS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda 7200.12 ST31000524AS	1 TB	6Gb/s	32 MB	No	3	
+Seagate	Pipeline HD ST31000533CS	1 TB	3Gb/s	32 MB	No	3	
+Toshiba	DT01ACA DT01ACA100	1 TB	6Gb/s	32 MB	No	2	
+Seagate	Pipeline HD .2 ST31000322CS	1 TB	3Gb/s	8 MB	No	3	
+Hitachi	Deskstar 7K1000 HDS721010KLA330	1 TB	3Gb/s	32 MB	No	3	
+Hitachi	Deskstar 7K1000.C HDS721010CLA332	1 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F1 HD103UJ	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda 7200.11 ST31000340AS	1 TB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST31000528AS	1 TB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD10EACS	1 TB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.10 ST3750640AS	750 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3750640NS	750 GB	3Gb/s	16 MB	No	5	
+Seagate	DB35 ST3750640SCE	750 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES ST3750840NS	750 GB	3Gb/s	8 MB	No	5	
+Seagate	DB35 ST3750840SCE	750 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.11 ST3750330AS	750 GB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST3750528AS	750 GB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD7500AACS	750 GB	3Gb/s	16 MB	No	3	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE4 WD5003ABYX	500 GB	3Gb/s	64 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST3500514NS	500 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD5001ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Samsung	Spinpoint T166 HD501LJ	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.10 ST3500630AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.9 ST3500641AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3500630NS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	NL35.2 ST3500641NS	500 GB	3Gb/s	16 MB	No	5	
+Hitachi	CinemaStar 5K1000 HCS5C1050CLA382	500 GB	3Gb/s	8 MB	No	3	
+Seagate	DB35.3 ST3500830SCE	500 GB	3Gb/s	8 MB	No	5	
+Seagate	Pipeline HD ST3500321CS	500 GB	3Gb/s	8 MB	No	3	
+Seagate	Pipeline HD .2 ST3500312CS	500 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.11 ST3500320AS	500 GB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD5000AACS	500 GB	3Gb/s	16 MB	No	3	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.10 ST3400620AS	400 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.10 ST3320620AS	320 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES.2 ST3250310NS	250 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda 7200.10 ST3250410AS	250 GB	3Gb/s	16 MB	No	5	
+IOSafe - Seagate	Momentus 5400.4 ST9250827AS	250 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.12 ST3500418AS	80 GB	3Gb/s	16 MB	No	3	
+#########################
+[ReadyNAS NVX Pioneer Edition]
+Hitachi	Deskstar 7K3000 HDS723030ALA640	3 TB	6Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware
+Hitachi	Ultrastar 7K3000 HUA723030ALA640	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST33000650NS	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware.
+Western Digital	WD RED WD30EFRX	3 TB	6Gb/s	64 MB	Yes	3	
+Seagate	Barracuda 7200.14 ST3000DM001	3 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda XT ST33000651AS	3 TB	6Gb/s	64 MB	No	5	
+Hitachi	Deskstar 5K3000 HDS5C3030ALA630	3 TB	6Gb/s	32 MB	No	3	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST2000NM0011	2 TB	6Gb/s	64 MB	Yes	5	
+Seagate	Constellation ST32000644NS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD2003FYYS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	Caviar Green WD20EADS	2 TB	3Gb/s	32 MB	Yes	3	Drive Firmware 01.00A01 , Model # WD20EADS-00R6B0, See Tech Bulletin http://www.readynas.com/?p=3690
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda LP ST2000DL003	2 TB	6Gb/s	64 MB	No	3	
+Western Digital	Caviar Black WD2002FAEX	2 TB	6Gb/s	64 MB	No	5	
+Hitachi	7K2000 HDS722020ALA330	2 TB	3Gb/s	32 MB	No	3	
+Samsung	EcoGreen F3 HD203WI	2 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F4 HD204UI	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda XT ST32000641AS	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda 7200.11 ST31500341AS	1.5 TB	3Gb/s	32 MB	No	5	Use Seagate firmware SD1A or later to prevent frame drops while streaming video.
+Seagate	Barracuda LP ST31500541AS	1.5 TB	3Gb/s	32 MB	No	5	
+Seagate	Constellation ST1000NM0011	1 TB	6Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Deskstar E7K1000 HDE721010SLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda LP ST31000520AS	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Constellation ST31000524NS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda 7200.12 ST31000524AS	1 TB	6Gb/s	32 MB	No	3	
+Seagate	Pipeline HD ST31000533CS	1 TB	3Gb/s	32 MB	No	3	
+Toshiba	DT01ACA DT01ACA100	1 TB	6Gb/s	32 MB	No	2	
+Seagate	Pipeline HD .2 ST31000322CS	1 TB	3Gb/s	8 MB	No	3	
+Hitachi	Deskstar 7K1000 HDS721010KLA330	1 TB	3Gb/s	32 MB	No	3	
+Hitachi	Deskstar 7K1000.C HDS721010CLA332	1 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F1 HD103UJ	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda 7200.11 ST31000340AS	1 TB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST31000528AS	1 TB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD10EACS	1 TB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.10 ST3750640AS	750 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3750640NS	750 GB	3Gb/s	16 MB	No	5	
+Seagate	DB35 ST3750640SCE	750 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES ST3750840NS	750 GB	3Gb/s	8 MB	No	5	
+Seagate	DB35 ST3750840SCE	750 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.11 ST3750330AS	750 GB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST3750528AS	750 GB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD7500AACS	750 GB	3Gb/s	16 MB	No	3	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE4 WD5003ABYX	500 GB	3Gb/s	64 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST3500514NS	500 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD5001ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Samsung	Spinpoint T166 HD501LJ	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.10 ST3500630AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.9 ST3500641AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3500630NS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	NL35.2 ST3500641NS	500 GB	3Gb/s	16 MB	No	5	
+Hitachi	CinemaStar 5K1000 HCS5C1050CLA382	500 GB	3Gb/s	8 MB	No	3	
+Seagate	DB35.3 ST3500830SCE	500 GB	3Gb/s	8 MB	No	5	
+Seagate	Pipeline HD ST3500321CS	500 GB	3Gb/s	8 MB	No	3	
+Seagate	Pipeline HD .2 ST3500312CS	500 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.11 ST3500320AS	500 GB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD5000AACS	500 GB	3Gb/s	16 MB	No	3	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.10 ST3400620AS	400 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.10 ST3320620AS	320 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES.2 ST3250310NS	250 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda 7200.10 ST3250410AS	250 GB	3Gb/s	16 MB	No	5	
+IOSafe - Seagate	Momentus 5400.4 ST9250827AS	250 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.12 ST3500418AS	80 GB	3Gb/s	16 MB	No	3	
+#########################
+[ReadyNAS Pro 2]
+Hitachi	Deskstar 7K3000 HDS723030ALA640	3 TB	6Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware
+Hitachi	Ultrastar 7K3000 HUA723030ALA640	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST33000650NS	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware.
+Western Digital	Caviar Green WD30EZRS	3 TB	3Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware.
+Western Digital	WD RED WD30EFRX	3 TB	6Gb/s	64 MB	Yes	3	
+Seagate	Barracuda 7200.14 ST3000DM001	3 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda XT ST33000651AS	3 TB	6Gb/s	64 MB	No	5	
+Hitachi	Deskstar 5K3000 HDS5C3030ALA630	3 TB	6Gb/s	32 MB	No	3	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST2000NM0011	2 TB	6Gb/s	64 MB	Yes	5	
+Seagate	Constellation ST32000644NS	2 TB	3Gb/s	64 MB	Yes	5	
+Toshiba	MKx002TSKB MK2002TSKB	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	Caviar Green WD20EARS	2 TB	3Gb/s	64 MB	Yes	3	Firmware 80.00A80, Model # WD20EARS-00S8B1, See Tech Bulletin http://www.readynas.com/?p=3690
+Western Digital	RE4 WD2003FYYS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda LP ST2000DL003	2 TB	6Gb/s	64 MB	No	3	
+Western Digital	Caviar Black WD2002FAEX	2 TB	6Gb/s	64 MB	No	5	
+Hitachi	7K2000 HDS722020ALA330	2 TB	3Gb/s	32 MB	No	3	
+Samsung	EcoGreen F3 HD203WI	2 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F4 HD204UI	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda XT ST32000641AS	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda 7200.11 ST31500341AS	1.5 TB	3Gb/s	32 MB	No	5	Use Seagate firmware SD1A or later to prevent frame drops while streaming video.
+Seagate	Barracuda LP ST31500541AS	1.5 TB	3Gb/s	32 MB	No	5	
+Seagate	Constellation ST1000NM0011	1 TB	6Gb/s	64 MB	Yes	5	
+Toshiba	MKx001TRKB MK1002TSKB	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Deskstar E7K1000 HDE721010SLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda LP ST31000520AS	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Constellation ST31000524NS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Green WD10EARX	1 TB	6Gb/s	64 MB	No	3	
+Seagate	Barracuda 7200.12 ST31000524AS	1 TB	6Gb/s	32 MB	No	3	
+Seagate	Pipeline HD ST31000533CS	1 TB	3Gb/s	32 MB	No	3	
+Toshiba	DT01ACA DT01ACA100	1 TB	6Gb/s	32 MB	No	2	
+Seagate	Pipeline HD .2 ST31000322CS	1 TB	3Gb/s	8 MB	No	3	
+Hitachi	Deskstar 7K1000 HDS721010KLA330	1 TB	3Gb/s	32 MB	No	3	
+Hitachi	Deskstar 7K1000.C HDS721010CLA332	1 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F1 HD103UJ	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda 7200.11 ST31000340AS	1 TB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST31000528AS	1 TB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD10EACS	1 TB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE4 WD5003ABYX	500 GB	3Gb/s	64 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST3500514NS	500 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD5001ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Seagate	Barracuda 7200.10 ST3500630AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.9 ST3500641AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3500630NS	500 GB	3Gb/s	16 MB	No	5	
+Hitachi	CinemaStar 5K1000 HCS5C1050CLA382	500 GB	3Gb/s	8 MB	No	3	
+#########################
+[ReadyNAS Pro 4]
+Hitachi	Deskstar 7K3000 HDS723030ALA640	3 TB	6Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware
+Hitachi	Ultrastar 7K3000 HUA723030ALA640	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST33000650NS	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware.
+Western Digital	WD RED WD30EFRX	3 TB	6Gb/s	64 MB	Yes	3	
+Seagate	Barracuda 7200.14 ST3000DM001	3 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda XT ST33000651AS	3 TB	6Gb/s	64 MB	No	5	
+Hitachi	Deskstar 5K3000 HDS5C3030ALA630	3 TB	6Gb/s	32 MB	No	3	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST2000NM0011	2 TB	6Gb/s	64 MB	Yes	5	
+Seagate	Constellation ST32000644NS	2 TB	3Gb/s	64 MB	Yes	5	
+Toshiba	MKx002TSKB MK2002TSKB	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD2003FYYS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda LP ST2000DL003	2 TB	6Gb/s	64 MB	No	3	
+Western Digital	Caviar Black WD2002FAEX	2 TB	6Gb/s	64 MB	No	5	
+Hitachi	7K2000 HDS722020ALA330	2 TB	3Gb/s	32 MB	No	3	
+Samsung	EcoGreen F3 HD203WI	2 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F4 HD204UI	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda XT ST32000641AS	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda 7200.11 ST31500341AS	1.5 TB	3Gb/s	32 MB	No	5	Use Seagate firmware SD1A or later to prevent frame drops while streaming video.
+Seagate	Barracuda LP ST31500541AS	1.5 TB	3Gb/s	32 MB	No	5	
+Seagate	Constellation ST1000NM0011	1 TB	6Gb/s	64 MB	Yes	5	
+Toshiba	MKx001TRKB MK1002TSKB	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Deskstar E7K1000 HDE721010SLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda LP ST31000520AS	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Constellation ST31000524NS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Green WD10EARX	1 TB	6Gb/s	64 MB	No	3	
+Seagate	Barracuda 7200.12 ST31000524AS	1 TB	6Gb/s	32 MB	No	3	
+Seagate	Pipeline HD ST31000533CS	1 TB	3Gb/s	32 MB	No	3	
+Toshiba	DT01ACA DT01ACA100	1 TB	6Gb/s	32 MB	No	2	
+Seagate	Pipeline HD .2 ST31000322CS	1 TB	3Gb/s	8 MB	No	3	
+Hitachi	Deskstar 7K1000 HDS721010KLA330	1 TB	3Gb/s	32 MB	No	3	
+Hitachi	Deskstar 7K1000.C HDS721010CLA332	1 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F1 HD103UJ	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda 7200.11 ST31000340AS	1 TB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST31000528AS	1 TB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD10EACS	1 TB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE4 WD5003ABYX	500 GB	3Gb/s	64 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST3500514NS	500 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD5001ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Seagate	Barracuda 7200.10 ST3500630AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.9 ST3500641AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3500630NS	500 GB	3Gb/s	16 MB	No	5	
+Hitachi	CinemaStar 5K1000 HCS5C1050CLA382	500 GB	3Gb/s	8 MB	No	3	
+#########################
+[ReadyNAS Pro 6]
+Hitachi	Deskstar 7K3000 HDS723030ALA640	3 TB	6Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware
+Hitachi	Ultrastar 7K3000 HUA723030ALA640	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST33000650NS	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware.
+Western Digital	WD RED WD30EFRX	3 TB	6Gb/s	64 MB	Yes	3	
+Seagate	Barracuda 7200.14 ST3000DM001	3 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda XT ST33000651AS	3 TB	6Gb/s	64 MB	No	5	
+Hitachi	Deskstar 5K3000 HDS5C3030ALA630	3 TB	6Gb/s	32 MB	No	3	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST2000NM0011	2 TB	6Gb/s	64 MB	Yes	5	
+Seagate	Constellation ST32000644NS	2 TB	3Gb/s	64 MB	Yes	5	
+Toshiba	MKx002TSKB MK2002TSKB	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD2003FYYS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda LP ST2000DL003	2 TB	6Gb/s	64 MB	No	3	
+Western Digital	Caviar Black WD2002FAEX	2 TB	6Gb/s	64 MB	No	5	
+Hitachi	7K2000 HDS722020ALA330	2 TB	3Gb/s	32 MB	No	3	
+Samsung	EcoGreen F3 HD203WI	2 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F4 HD204UI	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda XT ST32000641AS	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda 7200.11 ST31500341AS	1.5 TB	3Gb/s	32 MB	No	5	Use Seagate firmware SD1A or later to prevent frame drops while streaming video.
+Seagate	Barracuda LP ST31500541AS	1.5 TB	3Gb/s	32 MB	No	5	
+Seagate	Constellation ST1000NM0011	1 TB	6Gb/s	64 MB	Yes	5	
+Toshiba	MKx001TRKB MK1002TSKB	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Deskstar E7K1000 HDE721010SLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda LP ST31000520AS	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Constellation ST31000524NS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Green WD10EARX	1 TB	6Gb/s	64 MB	No	3	
+Seagate	Barracuda 7200.12 ST31000524AS	1 TB	6Gb/s	32 MB	No	3	
+Seagate	Pipeline HD ST31000533CS	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Pipeline HD .2 ST31000322CS	1 TB	3Gb/s	8 MB	No	3	
+Hitachi	Deskstar 7K1000 HDS721010KLA330	1 TB	3Gb/s	32 MB	No	3	
+Hitachi	Deskstar 7K1000.C HDS721010CLA332	1 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F1 HD103UJ	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda 7200.11 ST31000340AS	1 TB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST31000528AS	1 TB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD10EACS	1 TB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE4 WD5003ABYX	500 GB	3Gb/s	64 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST3500514NS	500 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD5001ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Seagate	Barracuda 7200.10 ST3500630AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.9 ST3500641AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3500630NS	500 GB	3Gb/s	16 MB	No	5	
+Hitachi	CinemaStar 5K1000 HCS5C1050CLA382	500 GB	3Gb/s	8 MB	No	3	
+#########################
+[ReadyNAS Pro Business Edition]
+Hitachi	Deskstar 7K3000 HDS723030ALA640	3 TB	6Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware
+Hitachi	Ultrastar 7K3000 HUA723030ALA640	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST33000650NS	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware.
+Western Digital	WD RED WD30EFRX	3 TB	6Gb/s	64 MB	Yes	3	
+Seagate	Barracuda 7200.14 ST3000DM001	3 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda XT ST33000651AS	3 TB	6Gb/s	64 MB	No	5	
+Hitachi	Deskstar 5K3000 HDS5C3030ALA630	3 TB	6Gb/s	32 MB	No	3	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST2000NM0011	2 TB	6Gb/s	64 MB	Yes	5	
+Seagate	Constellation ST32000644NS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD2003FYYS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda LP ST2000DL003	2 TB	6Gb/s	64 MB	No	3	
+Western Digital	Caviar Black WD2002FAEX	2 TB	6Gb/s	64 MB	No	5	
+Hitachi	7K2000 HDS722020ALA330	2 TB	3Gb/s	32 MB	No	3	
+Samsung	EcoGreen F3 HD203WI	2 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F4 HD204UI	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda XT ST32000641AS	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda 7200.11 ST31500341AS	1.5 TB	3Gb/s	32 MB	No	5	Use Seagate firmware SD1A or later to prevent frame drops while streaming video.
+Seagate	Barracuda LP ST31500541AS	1.5 TB	3Gb/s	32 MB	No	5	
+Seagate	Constellation ST1000NM0011	1 TB	6Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Deskstar E7K1000 HDE721010SLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda LP ST31000520AS	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Constellation ST31000524NS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Green WD10EARX	1 TB	6Gb/s	64 MB	No	3	
+Seagate	Barracuda 7200.12 ST31000524AS	1 TB	6Gb/s	32 MB	No	3	
+Seagate	Pipeline HD ST31000533CS	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Pipeline HD .2 ST31000322CS	1 TB	3Gb/s	8 MB	No	3	
+Hitachi	Deskstar 7K1000 HDS721010KLA330	1 TB	3Gb/s	32 MB	No	3	
+Hitachi	Deskstar 7K1000.C HDS721010CLA332	1 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F1 HD103UJ	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda 7200.11 ST31000340AS	1 TB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST31000528AS	1 TB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD10EACS	1 TB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.10 ST3750640AS	750 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3750640NS	750 GB	3Gb/s	16 MB	No	5	
+Seagate	DB35 ST3750640SCE	750 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES ST3750840NS	750 GB	3Gb/s	8 MB	No	5	
+Seagate	DB35 ST3750840SCE	750 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.11 ST3750330AS	750 GB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST3750528AS	750 GB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD7500AACS	750 GB	3Gb/s	16 MB	No	3	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE4 WD5003ABYX	500 GB	3Gb/s	64 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST3500514NS	500 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD5001ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Samsung	Spinpoint T166 HD501LJ	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.10 ST3500630AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.9 ST3500641AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3500630NS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	NL35.2 ST3500641NS	500 GB	3Gb/s	16 MB	No	5	
+Hitachi	CinemaStar 5K1000 HCS5C1050CLA382	500 GB	3Gb/s	8 MB	No	3	
+Seagate	DB35.3 ST3500830SCE	500 GB	3Gb/s	8 MB	No	5	
+Seagate	Pipeline HD ST3500321CS	500 GB	3Gb/s	8 MB	No	3	
+Seagate	Pipeline HD .2 ST3500312CS	500 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.11 ST3500320AS	500 GB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD5000AACS	500 GB	3Gb/s	16 MB	No	3	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.10 ST3400620AS	400 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.10 ST3320620AS	320 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES.2 ST3250310NS	250 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda 7200.10 ST3250410AS	250 GB	3Gb/s	16 MB	No	5	
+IOSafe - Seagate	Momentus 5400.4 ST9250827AS	250 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.12 ST3500418AS	80 GB	3Gb/s	16 MB	No	3	
+#########################
+[ReadyNAS Pro Pioneer Edition]
+Hitachi	Deskstar 7K3000 HDS723030ALA640	3 TB	6Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware
+Hitachi	Ultrastar 7K3000 HUA723030ALA640	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST33000650NS	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware.
+Western Digital	WD RED WD30EFRX	3 TB	6Gb/s	64 MB	Yes	3	
+Seagate	Barracuda 7200.14 ST3000DM001	3 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda XT ST33000651AS	3 TB	6Gb/s	64 MB	No	5	
+Hitachi	Deskstar 5K3000 HDS5C3030ALA630	3 TB	6Gb/s	32 MB	No	3	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST2000NM0011	2 TB	6Gb/s	64 MB	Yes	5	
+Seagate	Constellation ST32000644NS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD2003FYYS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda LP ST2000DL003	2 TB	6Gb/s	64 MB	No	3	
+Western Digital	Caviar Black WD2002FAEX	2 TB	6Gb/s	64 MB	No	5	
+Hitachi	7K2000 HDS722020ALA330	2 TB	3Gb/s	32 MB	No	3	
+Samsung	EcoGreen F3 HD203WI	2 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F4 HD204UI	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda XT ST32000641AS	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda 7200.11 ST31500341AS	1.5 TB	3Gb/s	32 MB	No	5	Use Seagate firmware SD1A or later to prevent frame drops while streaming video.
+Seagate	Barracuda LP ST31500541AS	1.5 TB	3Gb/s	32 MB	No	5	
+Seagate	Constellation ST1000NM0011	1 TB	6Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Deskstar E7K1000 HDE721010SLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda LP ST31000520AS	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Constellation ST31000524NS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Green WD10EARX	1 TB	6Gb/s	64 MB	No	3	
+Seagate	Barracuda 7200.12 ST31000524AS	1 TB	6Gb/s	32 MB	No	3	
+Seagate	Pipeline HD ST31000533CS	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Pipeline HD .2 ST31000322CS	1 TB	3Gb/s	8 MB	No	3	
+Hitachi	Deskstar 7K1000 HDS721010KLA330	1 TB	3Gb/s	32 MB	No	3	
+Hitachi	Deskstar 7K1000.C HDS721010CLA332	1 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F1 HD103UJ	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda 7200.11 ST31000340AS	1 TB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST31000528AS	1 TB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD10EACS	1 TB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.10 ST3750640AS	750 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3750640NS	750 GB	3Gb/s	16 MB	No	5	
+Seagate	DB35 ST3750640SCE	750 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES ST3750840NS	750 GB	3Gb/s	8 MB	No	5	
+Seagate	DB35 ST3750840SCE	750 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.11 ST3750330AS	750 GB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST3750528AS	750 GB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD7500AACS	750 GB	3Gb/s	16 MB	No	3	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE4 WD5003ABYX	500 GB	3Gb/s	64 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST3500514NS	500 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD5001ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Samsung	Spinpoint T166 HD501LJ	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.10 ST3500630AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.9 ST3500641AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3500630NS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	NL35.2 ST3500641NS	500 GB	3Gb/s	16 MB	No	5	
+Hitachi	CinemaStar 5K1000 HCS5C1050CLA382	500 GB	3Gb/s	8 MB	No	3	
+Seagate	DB35.3 ST3500830SCE	500 GB	3Gb/s	8 MB	No	5	
+Seagate	Pipeline HD ST3500321CS	500 GB	3Gb/s	8 MB	No	3	
+Seagate	Pipeline HD .2 ST3500312CS	500 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.11 ST3500320AS	500 GB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD5000AACS	500 GB	3Gb/s	16 MB	No	3	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.10 ST3400620AS	400 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.10 ST3320620AS	320 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES.2 ST3250310NS	250 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda 7200.10 ST3250410AS	250 GB	3Gb/s	16 MB	No	5	
+IOSafe - Seagate	Momentus 5400.4 ST9250827AS	250 GB	3Gb/s	8 MB	No	3	
+Seagate	Barracuda 7200.12 ST3500418AS	80 GB	3Gb/s	16 MB	No	3	
+#########################
+[ReadyNAS Ultra 2]
+Hitachi	Deskstar 7K3000 HDS723030ALA640	3 TB	6Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware
+Hitachi	Ultrastar 7K3000 HUA723030ALA640	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST33000650NS	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware.
+Western Digital	Caviar Green WD30EZRS	3 TB	3Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware.
+Western Digital	WD RED WD30EFRX	3 TB	6Gb/s	64 MB	Yes	3	
+Seagate	Barracuda 7200.14 ST3000DM001	3 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda XT ST33000651AS	3 TB	6Gb/s	64 MB	No	5	
+Hitachi	Deskstar 5K3000 HDS5C3030ALA630	3 TB	6Gb/s	32 MB	No	3	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST2000NM0011	2 TB	6Gb/s	64 MB	Yes	5	
+Seagate	Constellation ST32000644NS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	Caviar Green WD20EARS	2 TB	3Gb/s	64 MB	Yes	3	Firmware 80.00A80, Model # WD20EARS-00S8B1, See Tech Bulletin http://www.readynas.com/?p=3690
+Western Digital	RE4 WD2003FYYS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	Caviar Green WD20EADS	2 TB	3Gb/s	32 MB	Yes	3	Drive Firmware 01.00A01 , Model # WD20EADS-00R6B0, See Tech Bulletin http://www.readynas.com/?p=3690
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda LP ST2000DL003	2 TB	6Gb/s	64 MB	No	3	
+Western Digital	Caviar Black WD2002FAEX	2 TB	6Gb/s	64 MB	No	5	
+Hitachi	7K2000 HDS722020ALA330	2 TB	3Gb/s	32 MB	No	3	
+Samsung	EcoGreen F3 HD203WI	2 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F4 HD204UI	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda XT ST32000641AS	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda 7200.11 ST31500341AS	1.5 TB	3Gb/s	32 MB	No	5	Use Seagate firmware SD1A or later to prevent frame drops while streaming video.
+Seagate	Barracuda LP ST31500541AS	1.5 TB	3Gb/s	32 MB	No	5	
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Deskstar E7K1000 HDE721010SLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda LP ST31000520AS	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Constellation ST31000524NS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Green WD10EARX	1 TB	6Gb/s	64 MB	No	3	
+Seagate	Barracuda 7200.12 ST31000524AS	1 TB	6Gb/s	32 MB	No	3	
+Seagate	Pipeline HD ST31000533CS	1 TB	3Gb/s	32 MB	No	3	
+Toshiba	DT01ACA DT01ACA100	1 TB	6Gb/s	32 MB	No	2	
+Seagate	Pipeline HD .2 ST31000322CS	1 TB	3Gb/s	8 MB	No	3	
+Hitachi	Deskstar 7K1000 HDS721010KLA330	1 TB	3Gb/s	32 MB	No	3	
+Hitachi	Deskstar 7K1000.C HDS721010CLA332	1 TB	3Gb/s	32 MB	No	3	
+Western Digital	Caviar Green WD10EACS	1 TB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.11 ST3750330AS	750 GB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST3750528AS	750 GB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD7500AACS	750 GB	3Gb/s	16 MB	No	3	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE4 WD5003ABYX	500 GB	3Gb/s	64 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST3500514NS	500 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD5001ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Seagate	Barracuda 7200.10 ST3500630AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.9 ST3500641AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3500630NS	500 GB	3Gb/s	16 MB	No	5	
+Hitachi	CinemaStar 5K1000 HCS5C1050CLA382	500 GB	3Gb/s	8 MB	No	3	
+#########################
+[ReadyNAS Ultra 2+]
+Hitachi	Deskstar 7K3000 HDS723030ALA640	3 TB	6Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware
+Hitachi	Ultrastar 7K3000 HUA723030ALA640	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST33000650NS	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware.
+Western Digital	Caviar Green WD30EZRS	3 TB	3Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware.
+Western Digital	WD RED WD30EFRX	3 TB	6Gb/s	64 MB	Yes	3	
+Seagate	Barracuda 7200.14 ST3000DM001	3 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda XT ST33000651AS	3 TB	6Gb/s	64 MB	No	5	
+Hitachi	Deskstar 5K3000 HDS5C3030ALA630	3 TB	6Gb/s	32 MB	No	3	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST2000NM0011	2 TB	6Gb/s	64 MB	Yes	5	
+Seagate	Constellation ST32000644NS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD2003FYYS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	Caviar Green WD20EADS	2 TB	3Gb/s	32 MB	Yes	3	Drive Firmware 01.00A01 , Model # WD20EADS-00R6B0, See Tech Bulletin http://www.readynas.com/?p=3690
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda LP ST2000DL003	2 TB	6Gb/s	64 MB	No	3	
+Western Digital	Caviar Black WD2002FAEX	2 TB	6Gb/s	64 MB	No	5	
+Hitachi	7K2000 HDS722020ALA330	2 TB	3Gb/s	32 MB	No	3	
+Samsung	EcoGreen F3 HD203WI	2 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F4 HD204UI	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda XT ST32000641AS	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda 7200.11 ST31500341AS	1.5 TB	3Gb/s	32 MB	No	5	Use Seagate firmware SD1A or later to prevent frame drops while streaming video.
+Seagate	Barracuda LP ST31500541AS	1.5 TB	3Gb/s	32 MB	No	5	
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Deskstar E7K1000 HDE721010SLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda LP ST31000520AS	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Constellation ST31000524NS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Green WD10EARX	1 TB	6Gb/s	64 MB	No	3	
+Seagate	Barracuda 7200.12 ST31000524AS	1 TB	6Gb/s	32 MB	No	3	
+Seagate	Pipeline HD ST31000533CS	1 TB	3Gb/s	32 MB	No	3	
+Toshiba	DT01ACA DT01ACA100	1 TB	6Gb/s	32 MB	No	2	
+Seagate	Pipeline HD .2 ST31000322CS	1 TB	3Gb/s	8 MB	No	3	
+Hitachi	Deskstar 7K1000 HDS721010KLA330	1 TB	3Gb/s	32 MB	No	3	
+Hitachi	Deskstar 7K1000.C HDS721010CLA332	1 TB	3Gb/s	32 MB	No	3	
+Western Digital	Caviar Green WD10EACS	1 TB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.11 ST3750330AS	750 GB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST3750528AS	750 GB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD7500AACS	750 GB	3Gb/s	16 MB	No	3	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE4 WD5003ABYX	500 GB	3Gb/s	64 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST3500514NS	500 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD5001ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Seagate	Barracuda 7200.10 ST3500630AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.9 ST3500641AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3500630NS	500 GB	3Gb/s	16 MB	No	5	
+Hitachi	CinemaStar 5K1000 HCS5C1050CLA382	500 GB	3Gb/s	8 MB	No	3	
+#########################
+[ReadyNAS Ultra 4]
+Hitachi	Deskstar 7K3000 HDS723030ALA640	3 TB	6Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware
+Hitachi	Ultrastar 7K3000 HUA723030ALA640	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST33000650NS	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware.
+Western Digital	WD RED WD30EFRX	3 TB	6Gb/s	64 MB	Yes	3	
+Seagate	Barracuda 7200.14 ST3000DM001	3 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda XT ST33000651AS	3 TB	6Gb/s	64 MB	No	5	
+Hitachi	Deskstar 5K3000 HDS5C3030ALA630	3 TB	6Gb/s	32 MB	No	3	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST2000NM0011	2 TB	6Gb/s	64 MB	Yes	5	
+Seagate	Constellation ST32000644NS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD2003FYYS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda LP ST2000DL003	2 TB	6Gb/s	64 MB	No	3	
+Western Digital	Caviar Black WD2002FAEX	2 TB	6Gb/s	64 MB	No	5	
+Hitachi	7K2000 HDS722020ALA330	2 TB	3Gb/s	32 MB	No	3	
+Samsung	EcoGreen F3 HD203WI	2 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F4 HD204UI	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda XT ST32000641AS	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda 7200.11 ST31500341AS	1.5 TB	3Gb/s	32 MB	No	5	Use Seagate firmware SD1A or later to prevent frame drops while streaming video.
+Seagate	Barracuda LP ST31500541AS	1.5 TB	3Gb/s	32 MB	No	5	
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Deskstar E7K1000 HDE721010SLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda LP ST31000520AS	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Constellation ST31000524NS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Green WD10EARX	1 TB	6Gb/s	64 MB	No	3	
+Seagate	Barracuda 7200.12 ST31000524AS	1 TB	6Gb/s	32 MB	No	3	
+Seagate	Pipeline HD ST31000533CS	1 TB	3Gb/s	32 MB	No	3	
+Toshiba	DT01ACA DT01ACA100	1 TB	6Gb/s	32 MB	No	2	
+Seagate	Pipeline HD .2 ST31000322CS	1 TB	3Gb/s	8 MB	No	3	
+Hitachi	Deskstar 7K1000 HDS721010KLA330	1 TB	3Gb/s	32 MB	No	3	
+Hitachi	Deskstar 7K1000.C HDS721010CLA332	1 TB	3Gb/s	32 MB	No	3	
+Western Digital	Caviar Green WD10EACS	1 TB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.11 ST3750330AS	750 GB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST3750528AS	750 GB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD7500AACS	750 GB	3Gb/s	16 MB	No	3	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE4 WD5003ABYX	500 GB	3Gb/s	64 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST3500514NS	500 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD5001ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Seagate	Barracuda 7200.10 ST3500630AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.9 ST3500641AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3500630NS	500 GB	3Gb/s	16 MB	No	5	
+Hitachi	CinemaStar 5K1000 HCS5C1050CLA382	500 GB	3Gb/s	8 MB	No	3	
+#########################
+[ReadyNAS Ultra 4+]
+Hitachi	Deskstar 7K3000 HDS723030ALA640	3 TB	6Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware
+Hitachi	Ultrastar 7K3000 HUA723030ALA640	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST33000650NS	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware.
+Western Digital	WD RED WD30EFRX	3 TB	6Gb/s	64 MB	Yes	3	
+Seagate	Barracuda 7200.14 ST3000DM001	3 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda XT ST33000651AS	3 TB	6Gb/s	64 MB	No	5	
+Hitachi	Deskstar 5K3000 HDS5C3030ALA630	3 TB	6Gb/s	32 MB	No	3	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST2000NM0011	2 TB	6Gb/s	64 MB	Yes	5	
+Seagate	Constellation ST32000644NS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD2003FYYS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda LP ST2000DL003	2 TB	6Gb/s	64 MB	No	3	
+Western Digital	Caviar Black WD2002FAEX	2 TB	6Gb/s	64 MB	No	5	
+Hitachi	7K2000 HDS722020ALA330	2 TB	3Gb/s	32 MB	No	3	
+Samsung	EcoGreen F3 HD203WI	2 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F4 HD204UI	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda XT ST32000641AS	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda 7200.11 ST31500341AS	1.5 TB	3Gb/s	32 MB	No	5	Use Seagate firmware SD1A or later to prevent frame drops while streaming video.
+Seagate	Barracuda LP ST31500541AS	1.5 TB	3Gb/s	32 MB	No	5	
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Deskstar E7K1000 HDE721010SLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda LP ST31000520AS	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Constellation ST31000524NS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Green WD10EARX	1 TB	6Gb/s	64 MB	No	3	
+Seagate	Barracuda 7200.12 ST31000524AS	1 TB	6Gb/s	32 MB	No	3	
+Seagate	Pipeline HD ST31000533CS	1 TB	3Gb/s	32 MB	No	3	
+Toshiba	DT01ACA DT01ACA100	1 TB	6Gb/s	32 MB	No	2	
+Seagate	Pipeline HD .2 ST31000322CS	1 TB	3Gb/s	8 MB	No	3	
+Hitachi	Deskstar 7K1000 HDS721010KLA330	1 TB	3Gb/s	32 MB	No	3	
+Hitachi	Deskstar 7K1000.C HDS721010CLA332	1 TB	3Gb/s	32 MB	No	3	
+Western Digital	Caviar Green WD10EACS	1 TB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.11 ST3750330AS	750 GB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST3750528AS	750 GB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD7500AACS	750 GB	3Gb/s	16 MB	No	3	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE4 WD5003ABYX	500 GB	3Gb/s	64 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST3500514NS	500 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD5001ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Seagate	Barracuda 7200.10 ST3500630AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.9 ST3500641AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3500630NS	500 GB	3Gb/s	16 MB	No	5	
+Hitachi	CinemaStar 5K1000 HCS5C1050CLA382	500 GB	3Gb/s	8 MB	No	3	
+#########################
+[ReadyNAS Ultra 6]
+Hitachi	Deskstar 7K3000 HDS723030ALA640	3 TB	6Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware
+Hitachi	Ultrastar 7K3000 HUA723030ALA640	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST33000650NS	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware.
+Western Digital	WD RED WD30EFRX	3 TB	6Gb/s	64 MB	Yes	3	
+Seagate	Barracuda 7200.14 ST3000DM001	3 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda XT ST33000651AS	3 TB	6Gb/s	64 MB	No	5	
+Hitachi	Deskstar 5K3000 HDS5C3030ALA630	3 TB	6Gb/s	32 MB	No	3	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST2000NM0011	2 TB	6Gb/s	64 MB	Yes	5	
+Seagate	Constellation ST32000644NS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD2003FYYS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda LP ST2000DL003	2 TB	6Gb/s	64 MB	No	3	
+Western Digital	Caviar Black WD2002FAEX	2 TB	6Gb/s	64 MB	No	5	
+Hitachi	7K2000 HDS722020ALA330	2 TB	3Gb/s	32 MB	No	3	
+Samsung	EcoGreen F3 HD203WI	2 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F4 HD204UI	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda XT ST32000641AS	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda 7200.11 ST31500341AS	1.5 TB	3Gb/s	32 MB	No	5	Use Seagate firmware SD1A or later to prevent frame drops while streaming video.
+Seagate	Barracuda LP ST31500541AS	1.5 TB	3Gb/s	32 MB	No	5	
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Deskstar E7K1000 HDE721010SLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda LP ST31000520AS	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Constellation ST31000524NS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Green WD10EARX	1 TB	6Gb/s	64 MB	No	3	
+Seagate	Barracuda 7200.12 ST31000524AS	1 TB	6Gb/s	32 MB	No	3	
+Seagate	Pipeline HD ST31000533CS	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Pipeline HD .2 ST31000322CS	1 TB	3Gb/s	8 MB	No	3	
+Hitachi	Deskstar 7K1000 HDS721010KLA330	1 TB	3Gb/s	32 MB	No	3	
+Hitachi	Deskstar 7K1000.C HDS721010CLA332	1 TB	3Gb/s	32 MB	No	3	
+Western Digital	Caviar Green WD10EACS	1 TB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.11 ST3750330AS	750 GB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST3750528AS	750 GB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD7500AACS	750 GB	3Gb/s	16 MB	No	3	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE4 WD5003ABYX	500 GB	3Gb/s	64 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST3500514NS	500 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD5001ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Seagate	Barracuda 7200.10 ST3500630AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.9 ST3500641AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3500630NS	500 GB	3Gb/s	16 MB	No	5	
+Hitachi	CinemaStar 5K1000 HCS5C1050CLA382	500 GB	3Gb/s	8 MB	No	3	
+#########################
+[ReadyNAS Ultra 6+]
+Hitachi	Deskstar 7K3000 HDS723030ALA640	3 TB	6Gb/s	64 MB	Yes	3	Must be used with 4.2.16 or newer firmware
+Hitachi	Ultrastar 7K3000 HUA723030ALA640	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST33000650NS	3 TB	6Gb/s	64 MB	Yes	5	Must be used with 4.2.16 or newer firmware.
+Western Digital	WD RED WD30EFRX	3 TB	6Gb/s	64 MB	Yes	3	
+Seagate	Barracuda 7200.14 ST3000DM001	3 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda XT ST33000651AS	3 TB	6Gb/s	64 MB	No	5	
+Hitachi	Deskstar 5K3000 HDS5C3030ALA630	3 TB	6Gb/s	32 MB	No	3	Must be used with 4.2.16 or newer firmware
+Seagate	Constellation ST2000NM0011	2 TB	6Gb/s	64 MB	Yes	5	
+Seagate	Constellation ST32000644NS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4 WD2003FYYS	2 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	RE4-GP WD2002FYPS	2 TB	3Gb/s	64 MB	Yes	5	Drive firmware 4.05G05 or newer must be used
+Western Digital	WD RED WD20EFRX	2 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Ultrastar A7K2000 HUA722020ALA330	2 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	7K3000 HDS723020BLA642	2 TB	6Gb/s	64 MB	No	3	P/N:0F12115
+Seagate	Barracuda 7200.14 ST2000DM001	2 TB	6Gb/s	64 MB	No	1	
+Seagate	Barracuda LP ST2000DL003	2 TB	6Gb/s	64 MB	No	3	
+Western Digital	Caviar Black WD2002FAEX	2 TB	6Gb/s	64 MB	No	5	
+Hitachi	7K2000 HDS722020ALA330	2 TB	3Gb/s	32 MB	No	3	
+Samsung	EcoGreen F3 HD203WI	2 TB	3Gb/s	32 MB	No	3	
+Samsung	Spinpoint F4 HD204UI	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda LP ST32000542AS	2 TB	3Gb/s	32 MB	No	3	
+Seagate	Barracuda XT ST32000641AS	2 TB	6Gb/s	64 MB	No	5	
+Seagate	Barracuda 7200.11 ST31500341AS	1.5 TB	3Gb/s	32 MB	No	5	Use Seagate firmware SD1A or later to prevent frame drops while streaming video.
+Seagate	Barracuda LP ST31500541AS	1.5 TB	3Gb/s	32 MB	No	5	
+Western Digital	RE4 WD1003FBYX	1 TB	3Gb/s	64 MB	Yes	5	
+Western Digital	WD RED WD10EFRX	1 TB	6Gb/s	64 MB	Yes	3	
+Hitachi	Deskstar E7K1000 HDE721010SLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Hitachi	Ultrastar A7K2000 HUA722010CLA330	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Barracuda ES.2 ST31000340NS	1 TB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Barracuda LP ST31000520AS	1 TB	3Gb/s	32 MB	Yes	5	
+Seagate	Constellation ST31000524NS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE3 WD1002FBYS	1 TB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2-GP WD1000FYPS	1 TB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.14 ST1000DM003	1 TB	6Gb/s	64 MB	No	1	
+Western Digital	Caviar Green WD10EARX	1 TB	6Gb/s	64 MB	No	3	
+Seagate	Barracuda 7200.12 ST31000524AS	1 TB	6Gb/s	32 MB	No	3	
+Seagate	Pipeline HD ST31000533CS	1 TB	3Gb/s	32 MB	No	3	
+Seagate	Pipeline HD .2 ST31000322CS	1 TB	3Gb/s	8 MB	No	3	
+Hitachi	Deskstar 7K1000 HDS721010KLA330	1 TB	3Gb/s	32 MB	No	3	
+Hitachi	Deskstar 7K1000.C HDS721010CLA332	1 TB	3Gb/s	32 MB	No	3	
+Western Digital	Caviar Green WD10EACS	1 TB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda ES.2 ST3750330NS	750 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Western Digital	RE3 WD7502ABYS	750 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD7500AYYS	750 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD7500AYPS	750 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Seagate	Barracuda 7200.11 ST3750330AS	750 GB	3Gb/s	32 MB	No	5	
+Seagate	Barracuda 7200.12 ST3750528AS	750 GB	3Gb/s	32 MB	No	5	
+Western Digital	Caviar Green WD7500AACS	750 GB	3Gb/s	16 MB	No	3	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE4 WD5003ABYX	500 GB	3Gb/s	64 MB	Yes	5	
+Seagate	Barracuda ES.2 ST3500320NS	500 GB	3Gb/s	32 MB	Yes	5	RAIDiator 4.01+ required if Seagate firmware is SN03 or SN04.
+Seagate	Constellation ST3500514NS	500 GB	3Gb/s	32 MB	Yes	5	
+Western Digital	RE2 WD5001ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Western Digital	RE2-GP WD5000ABPS	500 GB	3Gb/s	16 MB	Yes	5	Requires RAIDiator 4.1.5+ for Duo/NV/NV+.
+Western Digital	RE3 WD5002ABYS	500 GB	3Gb/s	16 MB	Yes	5	
+Seagate	Barracuda 7200.10 ST3500630AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda 7200.12 ST3500418AS	500 GB	3Gb/s	16 MB	No	3	
+Seagate	Barracuda 7200.9 ST3500641AS	500 GB	3Gb/s	16 MB	No	5	
+Seagate	Barracuda ES ST3500630NS	500 GB	3Gb/s	16 MB	No	5	
+Hitachi	CinemaStar 5K1000 HCS5C1050CLA382	500 GB	3Gb/s	8 MB	No	3

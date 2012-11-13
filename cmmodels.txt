@@ -1,0 +1,1513 @@
+Updated: 8:49 PM 11/12/2012
+#########################
+[ReadyNAS 1100]
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Western Digital Caviar Black WD2002FAEX
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda XT ST32000641AS
+Western Digital RE4 WD1003FBYX
+Western Digital WD RED WD10EFRX
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.12 ST31000524AS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Seagate Barracuda ES ST3750640NS
+Seagate Barracuda ES ST3750840NS
+Seagate Barracuda 7200.11 ST3750330AS
+Seagate Barracuda ES.2 ST3500320NS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Hitachi 7K500 HDS725050KLA360
+Western Digital RE2 WD4000YR
+Seagate Barracuda ES ST3400620NS
+Seagate Barracuda ES ST3320620NS
+Seagate Barracuda ES.2 ST3250310NS
+Seagate Barracuda ES ST3250820NS
+Western Digital Caviar RE WD2500SD
+Seagate Barracuda ES ST3250620NS
+#########################
+[ReadyNAS 1500]
+Hitachi Deskstar 7K3000 HDS723030ALA640
+Seagate Constellation ST33000650NS
+Seagate Barracuda 7200.14 ST3000DM001
+Seagate Barracuda XT ST33000651AS
+Hitachi Deskstar 5K3000 HDS5C3030ALA630
+Seagate Constellation ST32000644NS
+Western Digital RE4 WD2003FYYS
+Western Digital RE4-GP WD2002FYPS
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Western Digital Caviar Green WD20EADS
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Seagate Barracuda LP ST2000DL003
+Western Digital Caviar Black WD2002FAEX
+Hitachi 7K2000 HDS722020ALA330
+Samsung EcoGreen F3 HD203WI
+Samsung Spinpoint F4 HD204UI
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda XT ST32000641AS
+Seagate Barracuda 7200.11 ST31500341AS
+Seagate Constellation ST1000NM0011
+Western Digital RE4 WD1003FBYX
+Western Digital WD RED WD10EFRX
+Hitachi Deskstar E7K1000 HDE721010SLA330
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Seagate Barracuda 7200.12 ST31000524AS
+Seagate Pipeline HD ST31000533CS
+Seagate Pipeline HD .2 ST31000322CS
+Hitachi Deskstar 7K1000 HDS721010KLA330
+Hitachi Deskstar 7K1000.C HDS721010CLA332
+Samsung Spinpoint F1 HD103UJ
+Seagate Barracuda 7200.11 ST31000340AS
+Seagate Barracuda 7200.12 ST31000528AS
+Western Digital Caviar Green WD10EACS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE4 WD5003ABYX
+#########################
+[ReadyNAS 2100]
+Hitachi Deskstar 7K3000 HDS723030ALA640
+Hitachi Ultrastar 7K3000 HUA723030ALA640
+Seagate Constellation ST33000650NS
+Western Digital WD RED WD30EFRX
+Seagate Barracuda 7200.14 ST3000DM001
+Seagate Barracuda XT ST33000651AS
+Hitachi Deskstar 5K3000 HDS5C3030ALA630
+Seagate Constellation ST2000NM0011
+Seagate Constellation ST32000644NS
+Toshiba MKx002TSKB MK2002TSKB
+Western Digital RE4 WD2003FYYS
+Western Digital RE4-GP WD2002FYPS
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Western Digital Caviar Black WD2002FAEX
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda XT ST32000641AS
+Seagate Barracuda 7200.11 ST31500341AS
+Seagate Constellation ST1000NM0011
+Toshiba MKx001TRKB MK1002TSKB
+Western Digital RE4 WD1003FBYX
+Western Digital WD RED WD10EFRX
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Constellation ST31000524NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Seagate Barracuda 7200.12 ST31000524AS
+Seagate Pipeline HD ST31000533CS
+Seagate Pipeline HD .2 ST31000322CS
+Hitachi Deskstar 7K1000 HDS721010KLA330
+Hitachi Deskstar 7K1000.C HDS721010CLA332
+Samsung Spinpoint F1 HD103UJ
+Seagate Barracuda 7200.11 ST31000340AS
+Seagate Barracuda 7200.12 ST31000528AS
+Western Digital Caviar Green WD10EACS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Western Digital RE4 WD5003ABYX
+Seagate Barracuda ES.2 ST3500320NS
+Seagate Constellation ST3500514NS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Seagate Barracuda ES.2 ST3250310NS
+#########################
+[ReadyNAS 2100-D]
+Hitachi Deskstar 7K3000 HDS723030ALA640
+Hitachi Ultrastar 7K3000 HUA723030ALA640
+Seagate Constellation ST33000650NS
+Western Digital WD RED WD30EFRX
+Seagate Barracuda 7200.14 ST3000DM001
+Seagate Barracuda XT ST33000651AS
+Hitachi Deskstar 5K3000 HDS5C3030ALA630
+Seagate Constellation ST2000NM0011
+Seagate Constellation ST32000644NS
+Toshiba MKx002TSKB MK2002TSKB
+Western Digital RE4 WD2003FYYS
+Western Digital RE4-GP WD2002FYPS
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Western Digital Caviar Black WD2002FAEX
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda XT ST32000641AS
+Toshiba MKx001TRKB MK1002TSKB
+Western Digital WD RED WD10EFRX
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Constellation ST31000524NS
+Seagate Barracuda 7200.14 ST1000DM003
+Seagate Barracuda 7200.12 ST31000524AS
+Hitachi Deskstar 7K1000 HDS721010KLA330
+Hitachi Deskstar 7K1000.C HDS721010CLA332
+Western Digital Caviar Green WD10EACS
+#########################
+[ReadyNAS 3100]
+Hitachi Ultrastar 7K3000 HUA723030ALA640
+Seagate Constellation ST33000650NS
+Seagate Barracuda XT ST33000651AS
+Seagate Barracuda ES.2 ST32000645NS
+Seagate Constellation ST32000644NS
+Toshiba MKx002TSKB MK2002TSKB
+Western Digital RE4 WD2003FYYS
+Western Digital RE4-GP WD2002FYPS
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Seagate Barracuda 7200.14 ST2000DM001
+Seagate Constellation ST1000NM0011
+Toshiba MKx001TRKB MK1002TSKB
+Western Digital RE4 WD1003FBYX
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Constellation ST31000524NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Western Digital RE4 WD5003ABYX
+Seagate Barracuda ES.2 ST3500320NS
+Seagate Constellation ST3500514NS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Seagate Barracuda ES.2 ST3250310NS
+#########################
+[ReadyNAS 3200]
+Seagate Barracuda ES.2 ST32000645NS
+Seagate Constellation ST2000NM0011
+Seagate Constellation ST32000644NS
+Toshiba MKx002TSKB MK2002TSKB
+Western Digital RE4 WD2003FYYS
+Western Digital RE4-GP WD2002FYPS
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Seagate Barracuda 7200.14 ST2000DM001
+Seagate Constellation ST1000NM0011
+Toshiba MKx001TRKB MK1002TSKB
+Western Digital RE4 WD1003FBYX
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Constellation ST31000524NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Western Digital RE4 WD5003ABYX
+Seagate Barracuda ES.2 ST3500320NS
+Seagate Constellation ST3500514NS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Seagate Barracuda ES.2 ST3250310NS
+#########################
+[ReadyNAS 4200]
+Seagate Barracuda ES.2 ST32000645NS
+Seagate Constellation ST2000NM0011
+Seagate Constellation ST32000644NS
+Toshiba MKx002TSKB MK2002TSKB
+Western Digital RE4 WD2003FYYS
+Western Digital RE4-GP WD2002FYPS
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Seagate Barracuda 7200.14 ST2000DM001
+Seagate Constellation ST1000NM0011
+Toshiba MKx001TRKB MK1002TSKB
+Western Digital RE4 WD1003FBYX
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Constellation ST31000524NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Western Digital RE4 WD5003ABYX
+Seagate Barracuda ES.2 ST3500320NS
+Seagate Constellation ST3500514NS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Seagate Barracuda ES.2 ST3250310NS
+#########################
+[ReadyNAS 4200 V2]
+Hitachi Ultrastar 7K3000 HUA723030ALA640
+Seagate Constellation ST33000650NS
+Seagate Barracuda 7200.14 ST3000DM001
+Seagate Barracuda ES.2 ST32000645NS
+Seagate Constellation ST2000NM0011
+Seagate Constellation ST32000644NS
+Toshiba MKx002TSKB MK2002TSKB
+Western Digital RE4 WD2003FYYS
+Western Digital RE4-GP WD2002FYPS
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Seagate Barracuda 7200.14 ST2000DM001
+Seagate Constellation ST1000NM0011
+Toshiba MKx001TRKB MK1002TSKB
+Western Digital RE4 WD1003FBYX
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Constellation ST31000524NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+#########################
+[ReadyNAS Duo]
+Western Digital Caviar Green WD20EARS
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Seagate Barracuda LP ST2000DL003
+Western Digital Caviar Black WD2002FAEX
+Western Digital Caviar Green WD20EARX
+Hitachi 7K2000 HDS722020ALA330
+Samsung Spinpoint F4 HD204UI
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda XT ST32000641AS
+Seagate Barracuda 7200.11 ST31500341AS
+Western Digital WD RED WD10EFRX
+Hitachi Deskstar E7K1000 HDE721010SLA330
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Barracuda LP ST31000520AS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Western Digital Caviar Green WD10EARX
+Seagate Barracuda 7200.12 ST31000524AS
+Seagate Pipeline HD ST31000533CS
+Seagate Pipeline HD .2 ST31000322CS
+Western Digital Caviar Green WD10EARS
+Hitachi Deskstar 7K1000 HDS721010KLA330
+Hitachi Deskstar 7K1000.C HDS721010CLA332
+Samsung Spinpoint F1 HD103UJ
+Seagate Barracuda 7200.11 ST31000340AS
+Seagate Barracuda 7200.12 ST31000528AS
+Western Digital Caviar Green WD10EACS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Seagate Barracuda 7200.10 ST3750640AS
+Seagate Barracuda ES ST3750640NS
+Seagate DB35 ST3750640SCE
+Seagate Barracuda ES ST3750840NS
+Seagate DB35 ST3750840SCE
+Seagate Barracuda 7200.11 ST3750330AS
+Seagate Barracuda 7200.12 ST3750528AS
+Western Digital Caviar Green WD7500AACS
+Seagate Barracuda ES.2 ST3500320NS
+Western Digital RE2 WD5001ABYS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Hitachi 7K500 HDS725050KLA360
+Samsung Spinpoint T166 HD501LJ
+Seagate Barracuda 7200.10 ST3500630AS
+Seagate Barracuda 7200.12 ST3500418AS
+Seagate Barracuda 7200.9 ST3500641AS
+Seagate Barracuda ES ST3500630NS
+Seagate NL35.2 ST3500641NS
+Hitachi CinemaStar 5K1000 HCS5C1050CLA382
+Seagate DB35.3 ST3500830SCE
+Seagate Pipeline HD ST3500321CS
+Seagate Pipeline HD .2 ST3500312CS
+Seagate Barracuda 7200.11 ST3500320AS
+Western Digital Caviar Green WD5000AACS
+Western Digital RE2 WD4000YR
+Seagate Barracuda 7200.10 ST3400620AS
+Seagate Barracuda 7200.9 ST3400633AS
+Seagate NL35.2 ST3400633NS
+Western Digital Caviar SE16 WD4000KD
+Seagate Barracuda 7200.8 ST3400832AS
+Seagate Barracuda ES ST3400620NS
+Seagate Barracuda 7200.10 ST3320620AS
+Seagate Barracuda ES ST3320620NS
+Seagate Barracuda 7200.9 ST3300822AS
+Seagate Barracuda 7200.8 ST3300831AS
+Seagate Barracuda ES.2 ST3250310NS
+Seagate Barracuda 7200.10 ST3250410AS
+Seagate Barracuda 7200.9 ST3250824AS
+Hitachi Deskstar T7K250 HDT722525DLA380
+Hitachi Deskstar T7K250 HDT725025VLA380
+IOSafe - Seagate Momentus 5400.4 ST9250827AS
+Seagate Barracuda 7200.10 ST3250820AS
+Seagate Barracuda 7200.8 ST3250823AS
+Seagate Barracuda ES ST3250820NS
+Seagate NL35.1 ST3250823NS
+Western Digital Caviar RE WD2500SD
+Western Digital Caviar SE WD2500JD
+Seagate Barracuda 7200.11 ST3160813AS
+Seagate Barracuda 7200.7 ST3160023AS
+Seagate Barracuda 7200.12 ST3500418AS
+Seagate Barracuda ES ST3250620NS
+Western Digital Caviar SE WD1200JD
+#########################
+[ReadyNAS Duo v2]
+Hitachi Deskstar 7K3000 HDS723030ALA640
+Western Digital Caviar Green WD30EZRS
+Western Digital WD RED WD30EFRX
+Seagate Barracuda 7200.14 ST3000DM001
+Seagate Barracuda XT ST33000651AS
+Western Digital Caviar Green WD30EZRX
+Western Digital Caviar Green WD20EARS
+Western Digital RE4-GP WD2002FYPS
+Western Digital WD RED WD20EFRX
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Western Digital Caviar Green WD20EARX
+Western Digital WD AV-GP WD20EURS
+Samsung Spinpoint F4 HD204UI
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda LP ST1500DL003
+Western Digital WD RED WD10EFRX
+Seagate Barracuda ES.2 ST31000340NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Western Digital Caviar Green WD10EARX
+Western Digital WD AV-GP WD10EURS
+Seagate Pipeline HD ST31000533CS
+Toshiba DT01ACA DT01ACA100
+Western Digital Caviar Green WD10EARS
+Seagate Barracuda 7200.11 ST31000340AS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE2-GP WD7500AYPS
+Western Digital RE3 WD5002ABYS
+Seagate Barracuda 7200.10 ST3500630AS
+Seagate Barracuda 7200.12 ST3500418AS
+#########################
+[ReadyNAS NV]
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Western Digital Caviar Black WD2002FAEX
+Western Digital Caviar Green WD20EARX
+Hitachi 7K2000 HDS722020ALA330
+Samsung Spinpoint F4 HD204UI
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda XT ST32000641AS
+Seagate Barracuda 7200.11 ST31500341AS
+Western Digital WD RED WD10EFRX
+Hitachi Deskstar E7K1000 HDE721010SLA330
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Barracuda LP ST31000520AS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Western Digital Caviar Green WD10EARX
+Seagate Barracuda 7200.12 ST31000524AS
+Seagate Pipeline HD ST31000533CS
+Seagate Pipeline HD .2 ST31000322CS
+Hitachi Deskstar 7K1000 HDS721010KLA330
+Hitachi Deskstar 7K1000.C HDS721010CLA332
+Samsung Spinpoint F1 HD103UJ
+Seagate Barracuda 7200.11 ST31000340AS
+Seagate Barracuda 7200.12 ST31000528AS
+Western Digital Caviar Green WD10EACS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Seagate Barracuda 7200.10 ST3750640AS
+Seagate Barracuda ES ST3750640NS
+Seagate DB35 ST3750640SCE
+Seagate Barracuda ES ST3750840NS
+Seagate DB35 ST3750840SCE
+Seagate Barracuda 7200.11 ST3750330AS
+Seagate Barracuda 7200.12 ST3750528AS
+Western Digital Caviar Green WD7500AACS
+Seagate Barracuda ES.2 ST3500320NS
+Western Digital RE2 WD5001ABYS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Hitachi 7K500 HDS725050KLA360
+Samsung Spinpoint T166 HD501LJ
+Seagate Barracuda 7200.10 ST3500630AS
+Seagate Barracuda 7200.12 ST3500418AS
+Seagate Barracuda 7200.9 ST3500641AS
+Seagate Barracuda ES ST3500630NS
+Seagate NL35.2 ST3500641NS
+Hitachi CinemaStar 5K1000 HCS5C1050CLA382
+Seagate DB35.3 ST3500830SCE
+Seagate Pipeline HD ST3500321CS
+Seagate Pipeline HD .2 ST3500312CS
+Seagate Barracuda 7200.11 ST3500320AS
+Western Digital Caviar Green WD5000AACS
+Western Digital RE2 WD4000YR
+Seagate Barracuda 7200.10 ST3400620AS
+Seagate Barracuda 7200.9 ST3400633AS
+Seagate NL35.2 ST3400633NS
+Western Digital Caviar SE16 WD4000KD
+Seagate Barracuda 7200.8 ST3400832AS
+Seagate Barracuda ES ST3400620NS
+Seagate Barracuda 7200.10 ST3320620AS
+Seagate Barracuda ES ST3320620NS
+Seagate Barracuda 7200.9 ST3300822AS
+Seagate Barracuda 7200.8 ST3300831AS
+Seagate Barracuda ES.2 ST3250310NS
+Seagate Barracuda 7200.10 ST3250410AS
+Seagate Barracuda 7200.9 ST3250824AS
+Hitachi Deskstar T7K250 HDT722525DLA380
+Hitachi Deskstar T7K250 HDT725025VLA380
+IOSafe - Seagate Momentus 5400.4 ST9250827AS
+Seagate Barracuda 7200.10 ST3250820AS
+Seagate Barracuda 7200.8 ST3250823AS
+Seagate Barracuda ES ST3250820NS
+Seagate NL35.1 ST3250823NS
+Western Digital Caviar RE WD2500SD
+Western Digital Caviar SE WD2500JD
+Seagate Barracuda 7200.11 ST3160813AS
+Seagate Barracuda 7200.7 ST3160023AS
+Seagate Barracuda 7200.12 ST3500418AS
+Seagate Barracuda ES ST3250620NS
+Western Digital Caviar SE WD1200JD
+#########################
+[ ReadyNAS NV+ v2]
+Hitachi Deskstar 7K3000 HDS723030ALA640
+Western Digital WD RED WD30EFRX
+Seagate Barracuda 7200.14 ST3000DM001
+Seagate Barracuda XT ST33000651AS
+Western Digital RE4-GP WD2002FYPS
+Western Digital WD RED WD20EFRX
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Western Digital Caviar Green WD20EARX
+Western Digital WD AV-GP WD20EURS
+Samsung Spinpoint F4 HD204UI
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda LP ST1500DL003
+Western Digital WD RED WD10EFRX
+Seagate Barracuda ES.2 ST31000340NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Western Digital WD AV-GP WD10EURS
+Seagate Pipeline HD ST31000533CS
+Toshiba DT01ACA DT01ACA100
+Seagate Barracuda 7200.11 ST31000340AS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE2-GP WD7500AYPS
+Western Digital RE3 WD5002ABYS
+Seagate Barracuda 7200.10 ST3500630AS
+Seagate Barracuda 7200.12 ST3500418AS
+#########################
+[ReadyNAS NV+]
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Seagate Barracuda LP ST2000DL003
+Western Digital Caviar Black WD2002FAEX
+Western Digital Caviar Green WD20EARX
+Hitachi 7K2000 HDS722020ALA330
+Samsung Spinpoint F4 HD204UI
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda XT ST32000641AS
+Seagate Barracuda 7200.11 ST31500341AS
+Western Digital RE4 WD1003FBYX
+Western Digital WD RED WD10EFRX
+Hitachi Deskstar E7K1000 HDE721010SLA330
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Barracuda LP ST31000520AS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Western Digital Caviar Green WD10EARX
+Seagate Barracuda 7200.12 ST31000524AS
+Seagate Pipeline HD ST31000533CS
+Seagate Pipeline HD .2 ST31000322CS
+Hitachi Deskstar 7K1000 HDS721010KLA330
+Hitachi Deskstar 7K1000.C HDS721010CLA332
+Samsung Spinpoint F1 HD103UJ
+Seagate Barracuda 7200.11 ST31000340AS
+Seagate Barracuda 7200.12 ST31000528AS
+Western Digital Caviar Green WD10EACS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Seagate Barracuda 7200.10 ST3750640AS
+Seagate Barracuda ES ST3750640NS
+Seagate DB35 ST3750640SCE
+Seagate Barracuda ES ST3750840NS
+Seagate DB35 ST3750840SCE
+Seagate Barracuda 7200.11 ST3750330AS
+Seagate Barracuda 7200.12 ST3750528AS
+Western Digital Caviar Green WD7500AACS
+Seagate Barracuda ES.2 ST3500320NS
+Western Digital RE2 WD5001ABYS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Hitachi 7K500 HDS725050KLA360
+Samsung Spinpoint T166 HD501LJ
+Seagate Barracuda 7200.10 ST3500630AS
+Seagate Barracuda 7200.12 ST3500418AS
+Seagate Barracuda 7200.9 ST3500641AS
+Seagate Barracuda ES ST3500630NS
+Seagate NL35.2 ST3500641NS
+Hitachi CinemaStar 5K1000 HCS5C1050CLA382
+Seagate DB35.3 ST3500830SCE
+Seagate Pipeline HD ST3500321CS
+Seagate Pipeline HD .2 ST3500312CS
+Seagate Barracuda 7200.11 ST3500320AS
+Western Digital Caviar Green WD5000AACS
+Western Digital RE2 WD4000YR
+Seagate Barracuda 7200.10 ST3400620AS
+Seagate Barracuda 7200.9 ST3400633AS
+Seagate NL35.2 ST3400633NS
+Western Digital Caviar SE16 WD4000KD
+Seagate Barracuda 7200.8 ST3400832AS
+Seagate Barracuda ES ST3400620NS
+Seagate Barracuda 7200.10 ST3320620AS
+Seagate Barracuda ES ST3320620NS
+Seagate Barracuda 7200.9 ST3300822AS
+Seagate Barracuda 7200.8 ST3300831AS
+Seagate Barracuda ES.2 ST3250310NS
+Seagate Barracuda 7200.10 ST3250410AS
+Seagate Barracuda 7200.9 ST3250824AS
+Hitachi Deskstar T7K250 HDT722525DLA380
+Hitachi Deskstar T7K250 HDT725025VLA380
+IOSafe - Seagate Momentus 5400.4 ST9250827AS
+Seagate Barracuda 7200.10 ST3250820AS
+Seagate Barracuda 7200.8 ST3250823AS
+Seagate Barracuda ES ST3250820NS
+Seagate NL35.1 ST3250823NS
+Western Digital Caviar RE WD2500SD
+Western Digital Caviar SE WD2500JD
+Seagate Barracuda 7200.11 ST3160813AS
+Seagate Barracuda 7200.7 ST3160023AS
+Seagate Barracuda 7200.12 ST3500418AS
+Seagate Barracuda ES ST3250620NS
+Western Digital Caviar SE WD1200JD
+#########################
+[ReadyNAS NVX]
+Hitachi Deskstar 7K3000 HDS723030ALA640
+Hitachi Ultrastar 7K3000 HUA723030ALA640
+Seagate Constellation ST33000650NS
+Western Digital WD RED WD30EFRX
+Seagate Barracuda 7200.14 ST3000DM001
+Seagate Barracuda XT ST33000651AS
+Hitachi Deskstar 5K3000 HDS5C3030ALA630
+Seagate Constellation ST2000NM0011
+Seagate Constellation ST32000644NS
+Western Digital RE4 WD2003FYYS
+Western Digital RE4-GP WD2002FYPS
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Seagate Barracuda LP ST2000DL003
+Western Digital Caviar Black WD2002FAEX
+Hitachi 7K2000 HDS722020ALA330
+Samsung EcoGreen F3 HD203WI
+Samsung Spinpoint F4 HD204UI
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda XT ST32000641AS
+Seagate Barracuda 7200.11 ST31500341AS
+Seagate Barracuda LP ST31500541AS
+Seagate Constellation ST1000NM0011
+Western Digital RE4 WD1003FBYX
+Western Digital WD RED WD10EFRX
+Hitachi Deskstar E7K1000 HDE721010SLA330
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Barracuda LP ST31000520AS
+Seagate Constellation ST31000524NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Seagate Barracuda 7200.12 ST31000524AS
+Seagate Pipeline HD ST31000533CS
+Toshiba DT01ACA DT01ACA100
+Seagate Pipeline HD .2 ST31000322CS
+Hitachi Deskstar 7K1000 HDS721010KLA330
+Hitachi Deskstar 7K1000.C HDS721010CLA332
+Samsung Spinpoint F1 HD103UJ
+Seagate Barracuda 7200.11 ST31000340AS
+Seagate Barracuda 7200.12 ST31000528AS
+Western Digital Caviar Green WD10EACS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Seagate Barracuda 7200.10 ST3750640AS
+Seagate Barracuda ES ST3750640NS
+Seagate DB35 ST3750640SCE
+Seagate Barracuda ES ST3750840NS
+Seagate DB35 ST3750840SCE
+Seagate Barracuda 7200.11 ST3750330AS
+Seagate Barracuda 7200.12 ST3750528AS
+Western Digital Caviar Green WD7500AACS
+Western Digital RE4 WD5003ABYX
+Seagate Barracuda ES.2 ST3500320NS
+Seagate Constellation ST3500514NS
+Western Digital RE2 WD5001ABYS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Samsung Spinpoint T166 HD501LJ
+Seagate Barracuda 7200.10 ST3500630AS
+Seagate Barracuda 7200.12 ST3500418AS
+Seagate Barracuda 7200.9 ST3500641AS
+Seagate Barracuda ES ST3500630NS
+Seagate NL35.2 ST3500641NS
+Hitachi CinemaStar 5K1000 HCS5C1050CLA382
+Seagate DB35.3 ST3500830SCE
+Seagate Pipeline HD ST3500321CS
+Seagate Pipeline HD .2 ST3500312CS
+Seagate Barracuda 7200.11 ST3500320AS
+Western Digital Caviar Green WD5000AACS
+Seagate Barracuda 7200.10 ST3400620AS
+Seagate Barracuda 7200.10 ST3320620AS
+Seagate Barracuda ES.2 ST3250310NS
+Seagate Barracuda 7200.10 ST3250410AS
+IOSafe - Seagate Momentus 5400.4 ST9250827AS
+Seagate Barracuda 7200.12 ST3500418AS
+#########################
+[ReadyNAS NVX Pioneer Edition]
+Hitachi Deskstar 7K3000 HDS723030ALA640
+Hitachi Ultrastar 7K3000 HUA723030ALA640
+Seagate Constellation ST33000650NS
+Western Digital WD RED WD30EFRX
+Seagate Barracuda 7200.14 ST3000DM001
+Seagate Barracuda XT ST33000651AS
+Hitachi Deskstar 5K3000 HDS5C3030ALA630
+Seagate Constellation ST2000NM0011
+Seagate Constellation ST32000644NS
+Western Digital RE4 WD2003FYYS
+Western Digital RE4-GP WD2002FYPS
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Western Digital Caviar Green WD20EADS
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Seagate Barracuda LP ST2000DL003
+Western Digital Caviar Black WD2002FAEX
+Hitachi 7K2000 HDS722020ALA330
+Samsung EcoGreen F3 HD203WI
+Samsung Spinpoint F4 HD204UI
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda XT ST32000641AS
+Seagate Barracuda 7200.11 ST31500341AS
+Seagate Barracuda LP ST31500541AS
+Seagate Constellation ST1000NM0011
+Western Digital RE4 WD1003FBYX
+Western Digital WD RED WD10EFRX
+Hitachi Deskstar E7K1000 HDE721010SLA330
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Barracuda LP ST31000520AS
+Seagate Constellation ST31000524NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Seagate Barracuda 7200.12 ST31000524AS
+Seagate Pipeline HD ST31000533CS
+Toshiba DT01ACA DT01ACA100
+Seagate Pipeline HD .2 ST31000322CS
+Hitachi Deskstar 7K1000 HDS721010KLA330
+Hitachi Deskstar 7K1000.C HDS721010CLA332
+Samsung Spinpoint F1 HD103UJ
+Seagate Barracuda 7200.11 ST31000340AS
+Seagate Barracuda 7200.12 ST31000528AS
+Western Digital Caviar Green WD10EACS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Seagate Barracuda 7200.10 ST3750640AS
+Seagate Barracuda ES ST3750640NS
+Seagate DB35 ST3750640SCE
+Seagate Barracuda ES ST3750840NS
+Seagate DB35 ST3750840SCE
+Seagate Barracuda 7200.11 ST3750330AS
+Seagate Barracuda 7200.12 ST3750528AS
+Western Digital Caviar Green WD7500AACS
+Western Digital RE4 WD5003ABYX
+Seagate Barracuda ES.2 ST3500320NS
+Seagate Constellation ST3500514NS
+Western Digital RE2 WD5001ABYS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Samsung Spinpoint T166 HD501LJ
+Seagate Barracuda 7200.10 ST3500630AS
+Seagate Barracuda 7200.12 ST3500418AS
+Seagate Barracuda 7200.9 ST3500641AS
+Seagate Barracuda ES ST3500630NS
+Seagate NL35.2 ST3500641NS
+Hitachi CinemaStar 5K1000 HCS5C1050CLA382
+Seagate DB35.3 ST3500830SCE
+Seagate Pipeline HD ST3500321CS
+Seagate Pipeline HD .2 ST3500312CS
+Seagate Barracuda 7200.11 ST3500320AS
+Western Digital Caviar Green WD5000AACS
+Seagate Barracuda 7200.10 ST3400620AS
+Seagate Barracuda 7200.10 ST3320620AS
+Seagate Barracuda ES.2 ST3250310NS
+Seagate Barracuda 7200.10 ST3250410AS
+IOSafe - Seagate Momentus 5400.4 ST9250827AS
+Seagate Barracuda 7200.12 ST3500418AS
+#########################
+[ReadyNAS Pro 2]
+Hitachi Deskstar 7K3000 HDS723030ALA640
+Hitachi Ultrastar 7K3000 HUA723030ALA640
+Seagate Constellation ST33000650NS
+Western Digital Caviar Green WD30EZRS
+Western Digital WD RED WD30EFRX
+Seagate Barracuda 7200.14 ST3000DM001
+Seagate Barracuda XT ST33000651AS
+Hitachi Deskstar 5K3000 HDS5C3030ALA630
+Seagate Constellation ST2000NM0011
+Seagate Constellation ST32000644NS
+Toshiba MKx002TSKB MK2002TSKB
+Western Digital Caviar Green WD20EARS
+Western Digital RE4 WD2003FYYS
+Western Digital RE4-GP WD2002FYPS
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Seagate Barracuda LP ST2000DL003
+Western Digital Caviar Black WD2002FAEX
+Hitachi 7K2000 HDS722020ALA330
+Samsung EcoGreen F3 HD203WI
+Samsung Spinpoint F4 HD204UI
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda XT ST32000641AS
+Seagate Barracuda 7200.11 ST31500341AS
+Seagate Barracuda LP ST31500541AS
+Seagate Constellation ST1000NM0011
+Toshiba MKx001TRKB MK1002TSKB
+Western Digital RE4 WD1003FBYX
+Western Digital WD RED WD10EFRX
+Hitachi Deskstar E7K1000 HDE721010SLA330
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Barracuda LP ST31000520AS
+Seagate Constellation ST31000524NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Western Digital Caviar Green WD10EARX
+Seagate Barracuda 7200.12 ST31000524AS
+Seagate Pipeline HD ST31000533CS
+Toshiba DT01ACA DT01ACA100
+Seagate Pipeline HD .2 ST31000322CS
+Hitachi Deskstar 7K1000 HDS721010KLA330
+Hitachi Deskstar 7K1000.C HDS721010CLA332
+Samsung Spinpoint F1 HD103UJ
+Seagate Barracuda 7200.11 ST31000340AS
+Seagate Barracuda 7200.12 ST31000528AS
+Western Digital Caviar Green WD10EACS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Western Digital RE4 WD5003ABYX
+Seagate Barracuda ES.2 ST3500320NS
+Seagate Constellation ST3500514NS
+Western Digital RE2 WD5001ABYS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Seagate Barracuda 7200.10 ST3500630AS
+Seagate Barracuda 7200.12 ST3500418AS
+Seagate Barracuda 7200.9 ST3500641AS
+Seagate Barracuda ES ST3500630NS
+Hitachi CinemaStar 5K1000 HCS5C1050CLA382
+#########################
+[ReadyNAS Pro 4]
+Hitachi Deskstar 7K3000 HDS723030ALA640
+Hitachi Ultrastar 7K3000 HUA723030ALA640
+Seagate Constellation ST33000650NS
+Western Digital WD RED WD30EFRX
+Seagate Barracuda 7200.14 ST3000DM001
+Seagate Barracuda XT ST33000651AS
+Hitachi Deskstar 5K3000 HDS5C3030ALA630
+Seagate Constellation ST2000NM0011
+Seagate Constellation ST32000644NS
+Toshiba MKx002TSKB MK2002TSKB
+Western Digital RE4 WD2003FYYS
+Western Digital RE4-GP WD2002FYPS
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Seagate Barracuda LP ST2000DL003
+Western Digital Caviar Black WD2002FAEX
+Hitachi 7K2000 HDS722020ALA330
+Samsung EcoGreen F3 HD203WI
+Samsung Spinpoint F4 HD204UI
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda XT ST32000641AS
+Seagate Barracuda 7200.11 ST31500341AS
+Seagate Barracuda LP ST31500541AS
+Seagate Constellation ST1000NM0011
+Toshiba MKx001TRKB MK1002TSKB
+Western Digital RE4 WD1003FBYX
+Western Digital WD RED WD10EFRX
+Hitachi Deskstar E7K1000 HDE721010SLA330
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Barracuda LP ST31000520AS
+Seagate Constellation ST31000524NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Western Digital Caviar Green WD10EARX
+Seagate Barracuda 7200.12 ST31000524AS
+Seagate Pipeline HD ST31000533CS
+Toshiba DT01ACA DT01ACA100
+Seagate Pipeline HD .2 ST31000322CS
+Hitachi Deskstar 7K1000 HDS721010KLA330
+Hitachi Deskstar 7K1000.C HDS721010CLA332
+Samsung Spinpoint F1 HD103UJ
+Seagate Barracuda 7200.11 ST31000340AS
+Seagate Barracuda 7200.12 ST31000528AS
+Western Digital Caviar Green WD10EACS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Western Digital RE4 WD5003ABYX
+Seagate Barracuda ES.2 ST3500320NS
+Seagate Constellation ST3500514NS
+Western Digital RE2 WD5001ABYS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Seagate Barracuda 7200.10 ST3500630AS
+Seagate Barracuda 7200.12 ST3500418AS
+Seagate Barracuda 7200.9 ST3500641AS
+Seagate Barracuda ES ST3500630NS
+Hitachi CinemaStar 5K1000 HCS5C1050CLA382
+#########################
+[ReadyNAS Pro 6]
+Hitachi Deskstar 7K3000 HDS723030ALA640
+Hitachi Ultrastar 7K3000 HUA723030ALA640
+Seagate Constellation ST33000650NS
+Western Digital WD RED WD30EFRX
+Seagate Barracuda 7200.14 ST3000DM001
+Seagate Barracuda XT ST33000651AS
+Hitachi Deskstar 5K3000 HDS5C3030ALA630
+Seagate Constellation ST2000NM0011
+Seagate Constellation ST32000644NS
+Toshiba MKx002TSKB MK2002TSKB
+Western Digital RE4 WD2003FYYS
+Western Digital RE4-GP WD2002FYPS
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Seagate Barracuda LP ST2000DL003
+Western Digital Caviar Black WD2002FAEX
+Hitachi 7K2000 HDS722020ALA330
+Samsung EcoGreen F3 HD203WI
+Samsung Spinpoint F4 HD204UI
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda XT ST32000641AS
+Seagate Barracuda 7200.11 ST31500341AS
+Seagate Barracuda LP ST31500541AS
+Seagate Constellation ST1000NM0011
+Toshiba MKx001TRKB MK1002TSKB
+Western Digital RE4 WD1003FBYX
+Western Digital WD RED WD10EFRX
+Hitachi Deskstar E7K1000 HDE721010SLA330
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Barracuda LP ST31000520AS
+Seagate Constellation ST31000524NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Western Digital Caviar Green WD10EARX
+Seagate Barracuda 7200.12 ST31000524AS
+Seagate Pipeline HD ST31000533CS
+Seagate Pipeline HD .2 ST31000322CS
+Hitachi Deskstar 7K1000 HDS721010KLA330
+Hitachi Deskstar 7K1000.C HDS721010CLA332
+Samsung Spinpoint F1 HD103UJ
+Seagate Barracuda 7200.11 ST31000340AS
+Seagate Barracuda 7200.12 ST31000528AS
+Western Digital Caviar Green WD10EACS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Western Digital RE4 WD5003ABYX
+Seagate Barracuda ES.2 ST3500320NS
+Seagate Constellation ST3500514NS
+Western Digital RE2 WD5001ABYS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Seagate Barracuda 7200.10 ST3500630AS
+Seagate Barracuda 7200.12 ST3500418AS
+Seagate Barracuda 7200.9 ST3500641AS
+Seagate Barracuda ES ST3500630NS
+Hitachi CinemaStar 5K1000 HCS5C1050CLA382
+#########################
+[ReadyNAS Pro Business Edition]
+Hitachi Deskstar 7K3000 HDS723030ALA640
+Hitachi Ultrastar 7K3000 HUA723030ALA640
+Seagate Constellation ST33000650NS
+Western Digital WD RED WD30EFRX
+Seagate Barracuda 7200.14 ST3000DM001
+Seagate Barracuda XT ST33000651AS
+Hitachi Deskstar 5K3000 HDS5C3030ALA630
+Seagate Constellation ST2000NM0011
+Seagate Constellation ST32000644NS
+Western Digital RE4 WD2003FYYS
+Western Digital RE4-GP WD2002FYPS
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Seagate Barracuda LP ST2000DL003
+Western Digital Caviar Black WD2002FAEX
+Hitachi 7K2000 HDS722020ALA330
+Samsung EcoGreen F3 HD203WI
+Samsung Spinpoint F4 HD204UI
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda XT ST32000641AS
+Seagate Barracuda 7200.11 ST31500341AS
+Seagate Barracuda LP ST31500541AS
+Seagate Constellation ST1000NM0011
+Western Digital RE4 WD1003FBYX
+Western Digital WD RED WD10EFRX
+Hitachi Deskstar E7K1000 HDE721010SLA330
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Barracuda LP ST31000520AS
+Seagate Constellation ST31000524NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Western Digital Caviar Green WD10EARX
+Seagate Barracuda 7200.12 ST31000524AS
+Seagate Pipeline HD ST31000533CS
+Seagate Pipeline HD .2 ST31000322CS
+Hitachi Deskstar 7K1000 HDS721010KLA330
+Hitachi Deskstar 7K1000.C HDS721010CLA332
+Samsung Spinpoint F1 HD103UJ
+Seagate Barracuda 7200.11 ST31000340AS
+Seagate Barracuda 7200.12 ST31000528AS
+Western Digital Caviar Green WD10EACS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Seagate Barracuda 7200.10 ST3750640AS
+Seagate Barracuda ES ST3750640NS
+Seagate DB35 ST3750640SCE
+Seagate Barracuda ES ST3750840NS
+Seagate DB35 ST3750840SCE
+Seagate Barracuda 7200.11 ST3750330AS
+Seagate Barracuda 7200.12 ST3750528AS
+Western Digital Caviar Green WD7500AACS
+Western Digital RE4 WD5003ABYX
+Seagate Barracuda ES.2 ST3500320NS
+Seagate Constellation ST3500514NS
+Western Digital RE2 WD5001ABYS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Samsung Spinpoint T166 HD501LJ
+Seagate Barracuda 7200.10 ST3500630AS
+Seagate Barracuda 7200.12 ST3500418AS
+Seagate Barracuda 7200.9 ST3500641AS
+Seagate Barracuda ES ST3500630NS
+Seagate NL35.2 ST3500641NS
+Hitachi CinemaStar 5K1000 HCS5C1050CLA382
+Seagate DB35.3 ST3500830SCE
+Seagate Pipeline HD ST3500321CS
+Seagate Pipeline HD .2 ST3500312CS
+Seagate Barracuda 7200.11 ST3500320AS
+Western Digital Caviar Green WD5000AACS
+Seagate Barracuda 7200.10 ST3400620AS
+Seagate Barracuda 7200.10 ST3320620AS
+Seagate Barracuda ES.2 ST3250310NS
+Seagate Barracuda 7200.10 ST3250410AS
+IOSafe - Seagate Momentus 5400.4 ST9250827AS
+Seagate Barracuda 7200.12 ST3500418AS
+#########################
+[ReadyNAS Pro Pioneer Edition]
+Hitachi Deskstar 7K3000 HDS723030ALA640
+Hitachi Ultrastar 7K3000 HUA723030ALA640
+Seagate Constellation ST33000650NS
+Western Digital WD RED WD30EFRX
+Seagate Barracuda 7200.14 ST3000DM001
+Seagate Barracuda XT ST33000651AS
+Hitachi Deskstar 5K3000 HDS5C3030ALA630
+Seagate Constellation ST2000NM0011
+Seagate Constellation ST32000644NS
+Western Digital RE4 WD2003FYYS
+Western Digital RE4-GP WD2002FYPS
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Seagate Barracuda LP ST2000DL003
+Western Digital Caviar Black WD2002FAEX
+Hitachi 7K2000 HDS722020ALA330
+Samsung EcoGreen F3 HD203WI
+Samsung Spinpoint F4 HD204UI
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda XT ST32000641AS
+Seagate Barracuda 7200.11 ST31500341AS
+Seagate Barracuda LP ST31500541AS
+Seagate Constellation ST1000NM0011
+Western Digital RE4 WD1003FBYX
+Western Digital WD RED WD10EFRX
+Hitachi Deskstar E7K1000 HDE721010SLA330
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Barracuda LP ST31000520AS
+Seagate Constellation ST31000524NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Western Digital Caviar Green WD10EARX
+Seagate Barracuda 7200.12 ST31000524AS
+Seagate Pipeline HD ST31000533CS
+Seagate Pipeline HD .2 ST31000322CS
+Hitachi Deskstar 7K1000 HDS721010KLA330
+Hitachi Deskstar 7K1000.C HDS721010CLA332
+Samsung Spinpoint F1 HD103UJ
+Seagate Barracuda 7200.11 ST31000340AS
+Seagate Barracuda 7200.12 ST31000528AS
+Western Digital Caviar Green WD10EACS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Seagate Barracuda 7200.10 ST3750640AS
+Seagate Barracuda ES ST3750640NS
+Seagate DB35 ST3750640SCE
+Seagate Barracuda ES ST3750840NS
+Seagate DB35 ST3750840SCE
+Seagate Barracuda 7200.11 ST3750330AS
+Seagate Barracuda 7200.12 ST3750528AS
+Western Digital Caviar Green WD7500AACS
+Western Digital RE4 WD5003ABYX
+Seagate Barracuda ES.2 ST3500320NS
+Seagate Constellation ST3500514NS
+Western Digital RE2 WD5001ABYS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Samsung Spinpoint T166 HD501LJ
+Seagate Barracuda 7200.10 ST3500630AS
+Seagate Barracuda 7200.12 ST3500418AS
+Seagate Barracuda 7200.9 ST3500641AS
+Seagate Barracuda ES ST3500630NS
+Seagate NL35.2 ST3500641NS
+Hitachi CinemaStar 5K1000 HCS5C1050CLA382
+Seagate DB35.3 ST3500830SCE
+Seagate Pipeline HD ST3500321CS
+Seagate Pipeline HD .2 ST3500312CS
+Seagate Barracuda 7200.11 ST3500320AS
+Western Digital Caviar Green WD5000AACS
+Seagate Barracuda 7200.10 ST3400620AS
+Seagate Barracuda 7200.10 ST3320620AS
+Seagate Barracuda ES.2 ST3250310NS
+Seagate Barracuda 7200.10 ST3250410AS
+IOSafe - Seagate Momentus 5400.4 ST9250827AS
+Seagate Barracuda 7200.12 ST3500418AS
+#########################
+[ReadyNAS Ultra 2]
+Hitachi Deskstar 7K3000 HDS723030ALA640
+Hitachi Ultrastar 7K3000 HUA723030ALA640
+Seagate Constellation ST33000650NS
+Western Digital Caviar Green WD30EZRS
+Western Digital WD RED WD30EFRX
+Seagate Barracuda 7200.14 ST3000DM001
+Seagate Barracuda XT ST33000651AS
+Hitachi Deskstar 5K3000 HDS5C3030ALA630
+Seagate Constellation ST2000NM0011
+Seagate Constellation ST32000644NS
+Western Digital Caviar Green WD20EARS
+Western Digital RE4 WD2003FYYS
+Western Digital RE4-GP WD2002FYPS
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Western Digital Caviar Green WD20EADS
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Seagate Barracuda LP ST2000DL003
+Western Digital Caviar Black WD2002FAEX
+Hitachi 7K2000 HDS722020ALA330
+Samsung EcoGreen F3 HD203WI
+Samsung Spinpoint F4 HD204UI
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda XT ST32000641AS
+Seagate Barracuda 7200.11 ST31500341AS
+Seagate Barracuda LP ST31500541AS
+Western Digital RE4 WD1003FBYX
+Western Digital WD RED WD10EFRX
+Hitachi Deskstar E7K1000 HDE721010SLA330
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Barracuda LP ST31000520AS
+Seagate Constellation ST31000524NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Western Digital Caviar Green WD10EARX
+Seagate Barracuda 7200.12 ST31000524AS
+Seagate Pipeline HD ST31000533CS
+Toshiba DT01ACA DT01ACA100
+Seagate Pipeline HD .2 ST31000322CS
+Hitachi Deskstar 7K1000 HDS721010KLA330
+Hitachi Deskstar 7K1000.C HDS721010CLA332
+Western Digital Caviar Green WD10EACS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Seagate Barracuda 7200.11 ST3750330AS
+Seagate Barracuda 7200.12 ST3750528AS
+Western Digital Caviar Green WD7500AACS
+Western Digital RE4 WD5003ABYX
+Seagate Barracuda ES.2 ST3500320NS
+Seagate Constellation ST3500514NS
+Western Digital RE2 WD5001ABYS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Seagate Barracuda 7200.10 ST3500630AS
+Seagate Barracuda 7200.12 ST3500418AS
+Seagate Barracuda 7200.9 ST3500641AS
+Seagate Barracuda ES ST3500630NS
+Hitachi CinemaStar 5K1000 HCS5C1050CLA382
+#########################
+[ReadyNAS Ultra 2+]
+Hitachi Deskstar 7K3000 HDS723030ALA640
+Hitachi Ultrastar 7K3000 HUA723030ALA640
+Seagate Constellation ST33000650NS
+Western Digital Caviar Green WD30EZRS
+Western Digital WD RED WD30EFRX
+Seagate Barracuda 7200.14 ST3000DM001
+Seagate Barracuda XT ST33000651AS
+Hitachi Deskstar 5K3000 HDS5C3030ALA630
+Seagate Constellation ST2000NM0011
+Seagate Constellation ST32000644NS
+Western Digital RE4 WD2003FYYS
+Western Digital RE4-GP WD2002FYPS
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Western Digital Caviar Green WD20EADS
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Seagate Barracuda LP ST2000DL003
+Western Digital Caviar Black WD2002FAEX
+Hitachi 7K2000 HDS722020ALA330
+Samsung EcoGreen F3 HD203WI
+Samsung Spinpoint F4 HD204UI
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda XT ST32000641AS
+Seagate Barracuda 7200.11 ST31500341AS
+Seagate Barracuda LP ST31500541AS
+Western Digital RE4 WD1003FBYX
+Western Digital WD RED WD10EFRX
+Hitachi Deskstar E7K1000 HDE721010SLA330
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Barracuda LP ST31000520AS
+Seagate Constellation ST31000524NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Western Digital Caviar Green WD10EARX
+Seagate Barracuda 7200.12 ST31000524AS
+Seagate Pipeline HD ST31000533CS
+Toshiba DT01ACA DT01ACA100
+Seagate Pipeline HD .2 ST31000322CS
+Hitachi Deskstar 7K1000 HDS721010KLA330
+Hitachi Deskstar 7K1000.C HDS721010CLA332
+Western Digital Caviar Green WD10EACS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Seagate Barracuda 7200.11 ST3750330AS
+Seagate Barracuda 7200.12 ST3750528AS
+Western Digital Caviar Green WD7500AACS
+Western Digital RE4 WD5003ABYX
+Seagate Barracuda ES.2 ST3500320NS
+Seagate Constellation ST3500514NS
+Western Digital RE2 WD5001ABYS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Seagate Barracuda 7200.10 ST3500630AS
+Seagate Barracuda 7200.12 ST3500418AS
+Seagate Barracuda 7200.9 ST3500641AS
+Seagate Barracuda ES ST3500630NS
+Hitachi CinemaStar 5K1000 HCS5C1050CLA382
+#########################
+[ReadyNAS Ultra 4]
+Hitachi Deskstar 7K3000 HDS723030ALA640
+Hitachi Ultrastar 7K3000 HUA723030ALA640
+Seagate Constellation ST33000650NS
+Western Digital WD RED WD30EFRX
+Seagate Barracuda 7200.14 ST3000DM001
+Seagate Barracuda XT ST33000651AS
+Hitachi Deskstar 5K3000 HDS5C3030ALA630
+Seagate Constellation ST2000NM0011
+Seagate Constellation ST32000644NS
+Western Digital RE4 WD2003FYYS
+Western Digital RE4-GP WD2002FYPS
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Seagate Barracuda LP ST2000DL003
+Western Digital Caviar Black WD2002FAEX
+Hitachi 7K2000 HDS722020ALA330
+Samsung EcoGreen F3 HD203WI
+Samsung Spinpoint F4 HD204UI
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda XT ST32000641AS
+Seagate Barracuda 7200.11 ST31500341AS
+Seagate Barracuda LP ST31500541AS
+Western Digital RE4 WD1003FBYX
+Western Digital WD RED WD10EFRX
+Hitachi Deskstar E7K1000 HDE721010SLA330
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Barracuda LP ST31000520AS
+Seagate Constellation ST31000524NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Western Digital Caviar Green WD10EARX
+Seagate Barracuda 7200.12 ST31000524AS
+Seagate Pipeline HD ST31000533CS
+Toshiba DT01ACA DT01ACA100
+Seagate Pipeline HD .2 ST31000322CS
+Hitachi Deskstar 7K1000 HDS721010KLA330
+Hitachi Deskstar 7K1000.C HDS721010CLA332
+Western Digital Caviar Green WD10EACS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Seagate Barracuda 7200.11 ST3750330AS
+Seagate Barracuda 7200.12 ST3750528AS
+Western Digital Caviar Green WD7500AACS
+Western Digital RE4 WD5003ABYX
+Seagate Barracuda ES.2 ST3500320NS
+Seagate Constellation ST3500514NS
+Western Digital RE2 WD5001ABYS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Seagate Barracuda 7200.10 ST3500630AS
+Seagate Barracuda 7200.12 ST3500418AS
+Seagate Barracuda 7200.9 ST3500641AS
+Seagate Barracuda ES ST3500630NS
+Hitachi CinemaStar 5K1000 HCS5C1050CLA382
+#########################
+[ReadyNAS Ultra 4+]
+Hitachi Deskstar 7K3000 HDS723030ALA640
+Hitachi Ultrastar 7K3000 HUA723030ALA640
+Seagate Constellation ST33000650NS
+Western Digital WD RED WD30EFRX
+Seagate Barracuda 7200.14 ST3000DM001
+Seagate Barracuda XT ST33000651AS
+Hitachi Deskstar 5K3000 HDS5C3030ALA630
+Seagate Constellation ST2000NM0011
+Seagate Constellation ST32000644NS
+Western Digital RE4 WD2003FYYS
+Western Digital RE4-GP WD2002FYPS
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Seagate Barracuda LP ST2000DL003
+Western Digital Caviar Black WD2002FAEX
+Hitachi 7K2000 HDS722020ALA330
+Samsung EcoGreen F3 HD203WI
+Samsung Spinpoint F4 HD204UI
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda XT ST32000641AS
+Seagate Barracuda 7200.11 ST31500341AS
+Seagate Barracuda LP ST31500541AS
+Western Digital RE4 WD1003FBYX
+Western Digital WD RED WD10EFRX
+Hitachi Deskstar E7K1000 HDE721010SLA330
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Barracuda LP ST31000520AS
+Seagate Constellation ST31000524NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Western Digital Caviar Green WD10EARX
+Seagate Barracuda 7200.12 ST31000524AS
+Seagate Pipeline HD ST31000533CS
+Toshiba DT01ACA DT01ACA100
+Seagate Pipeline HD .2 ST31000322CS
+Hitachi Deskstar 7K1000 HDS721010KLA330
+Hitachi Deskstar 7K1000.C HDS721010CLA332
+Western Digital Caviar Green WD10EACS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Seagate Barracuda 7200.11 ST3750330AS
+Seagate Barracuda 7200.12 ST3750528AS
+Western Digital Caviar Green WD7500AACS
+Western Digital RE4 WD5003ABYX
+Seagate Barracuda ES.2 ST3500320NS
+Seagate Constellation ST3500514NS
+Western Digital RE2 WD5001ABYS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Seagate Barracuda 7200.10 ST3500630AS
+Seagate Barracuda 7200.12 ST3500418AS
+Seagate Barracuda 7200.9 ST3500641AS
+Seagate Barracuda ES ST3500630NS
+Hitachi CinemaStar 5K1000 HCS5C1050CLA382
+#########################
+[ReadyNAS Ultra 6]
+Hitachi Deskstar 7K3000 HDS723030ALA640
+Hitachi Ultrastar 7K3000 HUA723030ALA640
+Seagate Constellation ST33000650NS
+Western Digital WD RED WD30EFRX
+Seagate Barracuda 7200.14 ST3000DM001
+Seagate Barracuda XT ST33000651AS
+Hitachi Deskstar 5K3000 HDS5C3030ALA630
+Seagate Constellation ST2000NM0011
+Seagate Constellation ST32000644NS
+Western Digital RE4 WD2003FYYS
+Western Digital RE4-GP WD2002FYPS
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Seagate Barracuda LP ST2000DL003
+Western Digital Caviar Black WD2002FAEX
+Hitachi 7K2000 HDS722020ALA330
+Samsung EcoGreen F3 HD203WI
+Samsung Spinpoint F4 HD204UI
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda XT ST32000641AS
+Seagate Barracuda 7200.11 ST31500341AS
+Seagate Barracuda LP ST31500541AS
+Western Digital RE4 WD1003FBYX
+Western Digital WD RED WD10EFRX
+Hitachi Deskstar E7K1000 HDE721010SLA330
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Barracuda LP ST31000520AS
+Seagate Constellation ST31000524NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Western Digital Caviar Green WD10EARX
+Seagate Barracuda 7200.12 ST31000524AS
+Seagate Pipeline HD ST31000533CS
+Seagate Pipeline HD .2 ST31000322CS
+Hitachi Deskstar 7K1000 HDS721010KLA330
+Hitachi Deskstar 7K1000.C HDS721010CLA332
+Western Digital Caviar Green WD10EACS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Seagate Barracuda 7200.11 ST3750330AS
+Seagate Barracuda 7200.12 ST3750528AS
+Western Digital Caviar Green WD7500AACS
+Western Digital RE4 WD5003ABYX
+Seagate Barracuda ES.2 ST3500320NS
+Seagate Constellation ST3500514NS
+Western Digital RE2 WD5001ABYS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Seagate Barracuda 7200.10 ST3500630AS
+Seagate Barracuda 7200.12 ST3500418AS
+Seagate Barracuda 7200.9 ST3500641AS
+Seagate Barracuda ES ST3500630NS
+Hitachi CinemaStar 5K1000 HCS5C1050CLA382
+#########################
+[ReadyNAS Ultra 6+]
+Hitachi Deskstar 7K3000 HDS723030ALA640
+Hitachi Ultrastar 7K3000 HUA723030ALA640
+Seagate Constellation ST33000650NS
+Western Digital WD RED WD30EFRX
+Seagate Barracuda 7200.14 ST3000DM001
+Seagate Barracuda XT ST33000651AS
+Hitachi Deskstar 5K3000 HDS5C3030ALA630
+Seagate Constellation ST2000NM0011
+Seagate Constellation ST32000644NS
+Western Digital RE4 WD2003FYYS
+Western Digital RE4-GP WD2002FYPS
+Western Digital WD RED WD20EFRX
+Hitachi Ultrastar A7K2000 HUA722020ALA330
+Hitachi 7K3000 HDS723020BLA642
+Seagate Barracuda 7200.14 ST2000DM001
+Seagate Barracuda LP ST2000DL003
+Western Digital Caviar Black WD2002FAEX
+Hitachi 7K2000 HDS722020ALA330
+Samsung EcoGreen F3 HD203WI
+Samsung Spinpoint F4 HD204UI
+Seagate Barracuda LP ST32000542AS
+Seagate Barracuda XT ST32000641AS
+Seagate Barracuda 7200.11 ST31500341AS
+Seagate Barracuda LP ST31500541AS
+Western Digital RE4 WD1003FBYX
+Western Digital WD RED WD10EFRX
+Hitachi Deskstar E7K1000 HDE721010SLA330
+Hitachi Ultrastar A7K2000 HUA722010CLA330
+Seagate Barracuda ES.2 ST31000340NS
+Seagate Barracuda LP ST31000520AS
+Seagate Constellation ST31000524NS
+Western Digital RE3 WD1002FBYS
+Western Digital RE2-GP WD1000FYPS
+Seagate Barracuda 7200.14 ST1000DM003
+Western Digital Caviar Green WD10EARX
+Seagate Barracuda 7200.12 ST31000524AS
+Seagate Pipeline HD ST31000533CS
+Seagate Pipeline HD .2 ST31000322CS
+Hitachi Deskstar 7K1000 HDS721010KLA330
+Hitachi Deskstar 7K1000.C HDS721010CLA332
+Western Digital Caviar Green WD10EACS
+Seagate Barracuda ES.2 ST3750330NS
+Western Digital RE3 WD7502ABYS
+Western Digital RE2 WD7500AYYS
+Western Digital RE2-GP WD7500AYPS
+Seagate Barracuda 7200.11 ST3750330AS
+Seagate Barracuda 7200.12 ST3750528AS
+Western Digital Caviar Green WD7500AACS
+Western Digital RE4 WD5003ABYX
+Seagate Barracuda ES.2 ST3500320NS
+Seagate Constellation ST3500514NS
+Western Digital RE2 WD5001ABYS
+Western Digital RE2-GP WD5000ABPS
+Western Digital RE3 WD5002ABYS
+Seagate Barracuda 7200.10 ST3500630AS
+Seagate Barracuda 7200.12 ST3500418AS
+Seagate Barracuda 7200.9 ST3500641AS
+Seagate Barracuda ES ST3500630NS
+Hitachi CinemaStar 5K1000 HCS5C1050CLA382
+

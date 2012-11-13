@@ -1,0 +1,25 @@
+cat /proc/partitions ; for i in a b c d e f g h i j k l; do mdadm -E /dev/sd${i}1 2>/dev/null | egrep -i '/dev/sd|reshape|recovery|Raid Devices' 2>/dev/null; done; for i in a b c d e f g h i j k l; do mdadm -E /dev/sd${i}1 2>/dev/null | egrep -i '/dev/sd|update' 2>/dev/null; done; for i in a b c d e f g h i j k l; do mdadm -E /dev/sd${i}1 2>/dev/null | egrep -i '/dev/sd|array state|chunk size' 2>/dev/null; done; for i in a b c d e f g h i j k l; do echo "=SD$i=" ;smartctl -a /dev/sd${i} | egrep -i 'Device Model|Serial Number|Reallocated_Sector_Ct|Current_Pending_Sector|Offline_Uncorrectable|Failing|Power_On_Hours|ATA Error Count'; done;
+
+
+
+
+#!/bin/bash
+# RYAN JACKSON SCRIPT
+cat /proc/partitions
+for i in a b c d e f g h i j k l
+do
+mdadm -E /dev/sd${i}1 2>/dev/null | egrep -i '/dev/sd|reshape|recovery|Raid Devices' 2>/dev/null
+done
+for i in a b c d e f g h i j k l
+do
+mdadm -E /dev/sd${i}1 2>/dev/null | egrep -i '/dev/sd|update' 2>/dev/null
+done
+for i in a b c d e f g h i j k l
+do mdadm -E /dev/sd${i}1 2>/dev/null | egrep -i '/dev/sd|array state|chunk size' 2>/dev/null
+done; for i in a b c d e f g h i j k l
+do
+echo "=SD$i="
+smartctl -a /dev/sd${i} | egrep -i 'Device Model|Serial Number|Reallocated_Sector_Ct|Current_Pending_Sector|Offline_Uncorrectable|Failing|Power_On_Hours|ATA Error Count'
+done
+# END OF RYAN JACKSON SCRIPT
+# RJ GAVE THE IDEA TO CHECK WITH COMPATABILITY LIST OF DRIVES
