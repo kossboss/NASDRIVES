@@ -1510,4 +1510,3 @@ Seagate;Barracuda 7200.12 ST3500418AS;500 GB;3Gb/s;16 MB;No;3;
 Seagate;Barracuda 7200.9 ST3500641AS;500 GB;3Gb/s;16 MB;No;5;
 Seagate;Barracuda ES ST3500630NS;500 GB;3Gb/s;16 MB;No;5;
 Hitachi;CinemaStar 5K1000 HCS5C1050CLA382;500 GB;3Gb/s;8 MB;No;3
-
